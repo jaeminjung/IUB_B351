@@ -55,23 +55,39 @@ print (deriv(f,5))
 
 matrix = [[1,2,3], [4,5,6],[7,8,9], [10,11,12]]
 
-print (len(matrix))
-print (len(matrix[0]))
+#print (len(matrix))
+#print (len(matrix[0]))
 # column number is len(matrix)
 # row number is len(matrix[0])
-print(matrix)
+#print(matrix)
+#print(matrix[1][1])
+
+
 
 def matrixMult(a, b):
     row_1 = len(a)
     col_1 = len(a[0])
-
+    #print (col_1)
+    #print(row_1)
     row_2 = len(b)
     col_2 = len(b[0])
     if col_1 != row_2:
         return print("not valid matrices")
+    ans =[[0 for x in range(row_1)] for y in range(col_2)]
 
-    for number in range(0,
+    for row in range(0, row_1):
+        sum = 0
+        
+        for col in range(0, col_1):
+            
+            sum = sum + a[row][col] * b[col][row]
+               
+        ans[row][row] = sum
+
+    print (ans)            
     return ans
 matrixMult([[1,2,3],[1,2,3]], [[1],[2],[3],[4]])
+matrixMult([[1,2,3],[4,5,6]],[[7,8],[9,10],[11,12]])
 
+#cant figure it out 
 # 5 levenshtein distance

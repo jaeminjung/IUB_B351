@@ -1,0 +1,15 @@
+#1.
+	bulbs that light up are 5 + 15  = 20
+	Probability that working after one week is 5/20 = 1/4
+
+#2.
+	pick one boy -> 6/11
+	pick one girl -> 5/10
+	pick one girl -> 4/9
+
+	mulitply all these -> 4/33
+
+#3.
+	5C2 * 7C3 = 350
+
+	5C2 * 5C3 = 100
