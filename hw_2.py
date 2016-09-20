@@ -15,6 +15,7 @@
 #         numRuns += 1
 #         generalSearch(expandProcedure(queue[0], queue[1:len(queue)]), limit, numRuns)
 
+##Jaemin Jung, hw2, colaboratied with Sunghyun Lee, Soon Kwon, Min Park, Bumlak Kim
 #Part I
 
 import copy
