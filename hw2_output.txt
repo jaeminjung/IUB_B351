@@ -1,0 +1,13596 @@
+##output for PartI (UninformedSearch)
+
+C:\Python27\python.exe "C:/Users/Jaemin Jung/Desktop/c212/introAI/Assignment2.py"
+  8 7 6
+  5 4 3
+  2 1  
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 2
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 3
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 4
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 5
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 6
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 7
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 8
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 9
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 10
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 11
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 12
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 13
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 14
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 15
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 16
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 17
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 18
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 19
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 20
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 21
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 22
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 23
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 24
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 25
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 26
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 27
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 28
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 29
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 30
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 31
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 32
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 33
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 34
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 35
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 36
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 37
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 38
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 39
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 40
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 41
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 42
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 43
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 44
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 45
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 46
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 47
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 48
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 49
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 50
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 51
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 52
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 53
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 54
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 55
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 56
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 57
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 58
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 59
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 60
+ 
+    7 6
+  8 4 3
+  5 2 1
+ number of tried : 61
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 62
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 63
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 64
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 65
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 66
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 67
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 68
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 69
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 70
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 71
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 72
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 73
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 74
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 75
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 76
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 77
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 78
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 79
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 80
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 81
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 82
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 83
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 84
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 85
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 86
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 87
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 88
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 89
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 90
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 91
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 92
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 93
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 94
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 95
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 96
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 97
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 98
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 99
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 100
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 101
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 102
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 103
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 104
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 105
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 106
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 107
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 108
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 109
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 110
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 111
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 112
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 113
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 114
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 115
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 116
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 117
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 118
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 119
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 120
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 121
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 122
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 123
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 124
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 125
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 126
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 127
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 128
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 129
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 130
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 131
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 132
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 133
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 134
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 135
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 136
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 137
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 138
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 139
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 140
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 141
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 142
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 143
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 144
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 145
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 146
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 147
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 148
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 149
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 150
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 151
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 152
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 153
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 154
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 155
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 156
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 157
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 158
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 159
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 160
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 161
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 162
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 163
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 164
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 165
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 166
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 167
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 168
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 169
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 170
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 171
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 172
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 173
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 174
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 175
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 176
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 177
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 178
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 179
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 180
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 181
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 182
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 183
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 184
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 185
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 186
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 187
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 188
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 189
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 190
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 191
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 192
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 193
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 194
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 195
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 196
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 197
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 198
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 199
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 200
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 201
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 202
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 203
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 204
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 205
+ 
+  5 8 7
+  2 4 6
+    1 3
+ number of tried : 206
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 207
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 208
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 209
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 210
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 211
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 212
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 213
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 214
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 215
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 216
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 217
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 218
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 219
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 220
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 221
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 222
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 223
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 224
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 225
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 226
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 227
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 228
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 229
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 230
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 231
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 232
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 233
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 234
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 235
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 236
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 237
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 238
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 239
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 240
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 241
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 242
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 243
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 244
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 245
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 246
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 247
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 248
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 249
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 250
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 251
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 252
+ 
+  5 8 6
+  7   4
+  2 1 3
+ number of tried : 253
+ 
+  5 8 6
+  2 7 4
+    1 3
+ number of tried : 254
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 255
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 256
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 257
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 258
+ 
+  8 6 4
+  5   7
+  2 1 3
+ number of tried : 259
+ 
+  8 6 4
+  5 7 3
+  2 1  
+ number of tried : 260
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 261
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 262
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 263
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 264
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 265
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 266
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 267
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 268
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 269
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 270
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 271
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 272
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 273
+ 
+  7 6  
+  8 5 4
+  2 1 3
+ number of tried : 274
+ 
+  7 5 6
+  8   4
+  2 1 3
+ number of tried : 275
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 276
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 277
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 278
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 279
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 280
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 281
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 282
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 283
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 284
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 285
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 286
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 287
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 288
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 289
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 290
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 291
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 292
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 293
+ 
+  8 7 6
+  2   4
+  1 5 3
+ number of tried : 294
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 295
+ 
+  8 7 6
+  2 5 4
+  1 3  
+ number of tried : 296
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 297
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 298
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 299
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 300
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 301
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 302
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 303
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 304
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 305
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 306
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 307
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 308
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 309
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 310
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 311
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 312
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 313
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 314
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 315
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 316
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 317
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 318
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 319
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 320
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 321
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 322
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 323
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 324
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 325
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 326
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 327
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 328
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 329
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 330
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 331
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 332
+ 
+    7 6
+  8 1 4
+  5 2 3
+ number of tried : 333
+ 
+  8 7 6
+  1   4
+  5 2 3
+ number of tried : 334
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 335
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 336
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 337
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 338
+ 
+  8 7  
+  5 1 6
+  2 3 4
+ number of tried : 339
+ 
+  8 7 6
+  5   1
+  2 3 4
+ number of tried : 340
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 341
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 342
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 343
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 344
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 345
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 346
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 347
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 348
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 349
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 350
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 351
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 352
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 353
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 354
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 355
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 356
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 357
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 358
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 359
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 360
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 361
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 362
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 363
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 364
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 365
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 366
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 367
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 368
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 369
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 370
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 371
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 372
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 373
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 374
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 375
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 376
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 377
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 378
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 379
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 380
+ 
+    7 6
+  8 4 3
+  5 2 1
+ number of tried : 381
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 382
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 383
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 384
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 385
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 386
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 387
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 388
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 389
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 390
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 391
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 392
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 393
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 394
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 395
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 396
+ 
+  5 8 6
+  7   3
+  2 4 1
+ number of tried : 397
+ 
+  5 8 6
+  2 7 3
+    4 1
+ number of tried : 398
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 399
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 400
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 401
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 402
+ 
+  8 6 3
+  5   7
+  2 4 1
+ number of tried : 403
+ 
+  8 6 3
+  5 7 1
+  2 4  
+ number of tried : 404
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 405
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 406
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 407
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 408
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 409
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 410
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 411
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 412
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 413
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 414
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 415
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 416
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 417
+ 
+  7 6  
+  8 5 3
+  2 4 1
+ number of tried : 418
+ 
+  7 5 6
+  8   3
+  2 4 1
+ number of tried : 419
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 420
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 421
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 422
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 423
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 424
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 425
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 426
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 427
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 428
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 429
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 430
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 431
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 432
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 433
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 434
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 435
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 436
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 437
+ 
+  8 7 6
+  2   3
+  4 5 1
+ number of tried : 438
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 439
+ 
+  8 7 6
+  2 5 3
+  4 1  
+ number of tried : 440
+ 
+    8 7
+  5 3 6
+  2 4 1
+ number of tried : 441
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 442
+ 
+  8 3 7
+  5   6
+  2 4 1
+ number of tried : 443
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 444
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 445
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 446
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 447
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 448
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 449
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 450
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 451
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 452
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 453
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 454
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 455
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 456
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 457
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 458
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 459
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 460
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 461
+ 
+  8 7 6
+  5   1
+  2 3 4
+ number of tried : 462
+ 
+  8 7 6
+  5 3 1
+    2 4
+ number of tried : 463
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 464
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 465
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 466
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 467
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 468
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 469
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 470
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 471
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 472
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 473
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 474
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 475
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 476
+ 
+    7 6
+  8 4 3
+  5 2 1
+ number of tried : 477
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 478
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 479
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 480
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 481
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 482
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 483
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 484
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 485
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 486
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 487
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 488
+ 
+    7 6
+  8 4 3
+  5 2 1
+ number of tried : 489
+ 
+  7 6  
+  8 4 3
+  5 2 1
+ number of tried : 490
+ 
+  7 4 6
+  8   3
+  5 2 1
+ number of tried : 491
+ 
+    7 6
+  8 4 3
+  5 2 1
+ number of tried : 492
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 493
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 494
+ 
+    8 6
+  4 7 3
+  5 2 1
+ number of tried : 495
+ 
+  8 6  
+  4 7 3
+  5 2 1
+ number of tried : 496
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 497
+ 
+    7 6
+  8 4 3
+  5 2 1
+ number of tried : 498
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 499
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 500
+ 
+  8 7  
+  4 3 6
+  5 2 1
+ number of tried : 501
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 502
+ 
+  8 7 6
+  4 3 1
+  5 2  
+ number of tried : 503
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 504
+ 
+  8 7 6
+  4 2 3
+    5 1
+ number of tried : 505
+ 
+  8 7 6
+  4 2 3
+  5 1  
+ number of tried : 506
+ 
+    7 6
+  8 4 3
+  5 2 1
+ number of tried : 507
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 508
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 509
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 510
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 511
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 512
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 513
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 514
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 515
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 516
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 517
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 518
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 519
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 520
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 521
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 522
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 523
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 524
+ 
+    7 6
+  8 4 3
+  5 2 1
+ number of tried : 525
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 526
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 527
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 528
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 529
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 530
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 531
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 532
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 533
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 534
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 535
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 536
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 537
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 538
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 539
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 540
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 541
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 542
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 543
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 544
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 545
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 546
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 547
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 548
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 549
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 550
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 551
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 552
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 553
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 554
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 555
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 556
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 557
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 558
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 559
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 560
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 561
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 562
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 563
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 564
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 565
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 566
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 567
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 568
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 569
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 570
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 571
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 572
+ 
+    7 6
+  8 4 3
+  5 2 1
+ number of tried : 573
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 574
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 575
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 576
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 577
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 578
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 579
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 580
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 581
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 582
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 583
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 584
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 585
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 586
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 587
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 588
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 589
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 590
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 591
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 592
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 593
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 594
+ 
+  5   7
+  4 8 6
+  2 1 3
+ number of tried : 595
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 596
+ 
+  5 8 7
+  4 6  
+  2 1 3
+ number of tried : 597
+ 
+  5 8 7
+  4 1 6
+  2   3
+ number of tried : 598
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 599
+ 
+  5 8 7
+  2 4 6
+  1   3
+ number of tried : 600
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 601
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 602
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 603
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 604
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 605
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 606
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 607
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 608
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 609
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 610
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 611
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 612
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 613
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 614
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 615
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 616
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 617
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 618
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 619
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 620
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 621
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 622
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 623
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 624
+ 
+  4   7
+  8 5 6
+  2 1 3
+ number of tried : 625
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 626
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 627
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 628
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 629
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 630
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 631
+ 
+  8 4 7
+  2 5 6
+  1   3
+ number of tried : 632
+ 
+  8   4
+  5 6 7
+  2 1 3
+ number of tried : 633
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 634
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 635
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 636
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 637
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 638
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 639
+ 
+  8 4 7
+  5 6 3
+  2   1
+ number of tried : 640
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 641
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 642
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 643
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 644
+ 
+  8 4 7
+    1 6
+  5 2 3
+ number of tried : 645
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 646
+ 
+  8 4 7
+  5 1  
+  2 3 6
+ number of tried : 647
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 648
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 649
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 650
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 651
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 652
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 653
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 654
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 655
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 656
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 657
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 658
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 659
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 660
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 661
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 662
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 663
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 664
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 665
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 666
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 667
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 668
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 669
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 670
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 671
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 672
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 673
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 674
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 675
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 676
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 677
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 678
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 679
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 680
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 681
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 682
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 683
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 684
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 685
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 686
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 687
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 688
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 689
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 690
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 691
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 692
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 693
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 694
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 695
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 696
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 697
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 698
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 699
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 700
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 701
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 702
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 703
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 704
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 705
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 706
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 707
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 708
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 709
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 710
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 711
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 712
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 713
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 714
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 715
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 716
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 717
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 718
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 719
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 720
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 721
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 722
+ 
+  5   6
+  7 8 4
+  2 1 3
+ number of tried : 723
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 724
+ 
+  5 8 6
+  7 4  
+  2 1 3
+ number of tried : 725
+ 
+  5 8 6
+  7 1 4
+  2   3
+ number of tried : 726
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 727
+ 
+  5 8 6
+  2 7 4
+  1   3
+ number of tried : 728
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 729
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 730
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 731
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 732
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 733
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 734
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 735
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 736
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 737
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 738
+ 
+  8   4
+  5 6 7
+  2 1 3
+ number of tried : 739
+ 
+  8 6 4
+    5 7
+  2 1 3
+ number of tried : 740
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 741
+ 
+  8 6 4
+  5 1 7
+  2   3
+ number of tried : 742
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 743
+ 
+  8 6 4
+  5 7 3
+  2   1
+ number of tried : 744
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 745
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 746
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 747
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 748
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 749
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 750
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 751
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 752
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 753
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 754
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 755
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 756
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 757
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 758
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 759
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 760
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 761
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 762
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 763
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 764
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 765
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 766
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 767
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 768
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 769
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 770
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 771
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 772
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 773
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 774
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 775
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 776
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 777
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 778
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 779
+ 
+  7 6 4
+  8 5  
+  2 1 3
+ number of tried : 780
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 781
+ 
+  7 5 6
+    8 4
+  2 1 3
+ number of tried : 782
+ 
+  7 5 6
+  8 4  
+  2 1 3
+ number of tried : 783
+ 
+  7 5 6
+  8 1 4
+  2   3
+ number of tried : 784
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 785
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 786
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 787
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 788
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 789
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 790
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 791
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 792
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 793
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 794
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 795
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 796
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 797
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 798
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 799
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 800
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 801
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 802
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 803
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 804
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 805
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 806
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 807
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 808
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 809
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 810
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 811
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 812
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 813
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 814
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 815
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 816
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 817
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 818
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 819
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 820
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 821
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 822
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 823
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 824
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 825
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 826
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 827
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 828
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 829
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 830
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 831
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 832
+ 
+  8   6
+  2 7 4
+  1 5 3
+ number of tried : 833
+ 
+  8 7 6
+    2 4
+  1 5 3
+ number of tried : 834
+ 
+  8 7 6
+  2 4  
+  1 5 3
+ number of tried : 835
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 836
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 837
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 838
+ 
+  8 7 6
+  2 5  
+  1 3 4
+ number of tried : 839
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 840
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 841
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 842
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 843
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 844
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 845
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 846
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 847
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 848
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 849
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 850
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 851
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 852
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 853
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 854
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 855
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 856
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 857
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 858
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 859
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 860
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 861
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 862
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 863
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 864
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 865
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 866
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 867
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 868
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 869
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 870
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 871
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 872
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 873
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 874
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 875
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 876
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 877
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 878
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 879
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 880
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 881
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 882
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 883
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 884
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 885
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 886
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 887
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 888
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 889
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 890
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 891
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 892
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 893
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 894
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 895
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 896
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 897
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 898
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 899
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 900
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 901
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 902
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 903
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 904
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 905
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 906
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 907
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 908
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 909
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 910
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 911
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 912
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 913
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 914
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 915
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 916
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 917
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 918
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 919
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 920
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 921
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 922
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 923
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 924
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 925
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 926
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 927
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 928
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 929
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 930
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 931
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 932
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 933
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 934
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 935
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 936
+ 
+  7   6
+  8 1 4
+  5 2 3
+ number of tried : 937
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 938
+ 
+  8   6
+  1 7 4
+  5 2 3
+ number of tried : 939
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 940
+ 
+  8 7 6
+  1 4  
+  5 2 3
+ number of tried : 941
+ 
+  8 7 6
+  1 2 4
+  5   3
+ number of tried : 942
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 943
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 944
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 945
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 946
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 947
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 948
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 949
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 950
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 951
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 952
+ 
+  8   7
+  5 1 6
+  2 3 4
+ number of tried : 953
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 954
+ 
+  8   6
+  5 7 1
+  2 3 4
+ number of tried : 955
+ 
+  8 7 6
+    5 1
+  2 3 4
+ number of tried : 956
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 957
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 958
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 959
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 960
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 961
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 962
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 963
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 964
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 965
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 966
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 967
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 968
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 969
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 970
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 971
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 972
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 973
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 974
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 975
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 976
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 977
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 978
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 979
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 980
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 981
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 982
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 983
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 984
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 985
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 986
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 987
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 988
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 989
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 990
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 991
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 992
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 993
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 994
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 995
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 996
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 997
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 998
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 999
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 1000
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1001
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1002
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1003
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1004
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1005
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1006
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1007
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1008
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1009
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1010
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1011
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1012
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 1013
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1014
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 1015
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1016
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1017
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1018
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1019
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1020
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1021
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1022
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1023
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1024
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1025
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1026
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1027
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1028
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1029
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1030
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1031
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1032
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1033
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1034
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1035
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1036
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1037
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1038
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1039
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1040
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1041
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1042
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1043
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1044
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1045
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1046
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1047
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1048
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1049
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1050
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1051
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1052
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1053
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1054
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1055
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1056
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1057
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1058
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1059
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1060
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1061
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1062
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1063
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1064
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 1065
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1066
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1067
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1068
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1069
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1070
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1071
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1072
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1073
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1074
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1075
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1076
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1077
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1078
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1079
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1080
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1081
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1082
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1083
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1084
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1085
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1086
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1087
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1088
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1089
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1090
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1091
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1092
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1093
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1094
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1095
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1096
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1097
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1098
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1099
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1100
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1101
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1102
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1103
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1104
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1105
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1106
+ 
+  5   6
+  7 8 3
+  2 4 1
+ number of tried : 1107
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1108
+ 
+  5 8 6
+  7 3  
+  2 4 1
+ number of tried : 1109
+ 
+  5 8 6
+  7 4 3
+  2   1
+ number of tried : 1110
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1111
+ 
+  5 8 6
+  2 7 3
+  4   1
+ number of tried : 1112
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1113
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1114
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1115
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1116
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1117
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1118
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1119
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1120
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1121
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1122
+ 
+  8   3
+  5 6 7
+  2 4 1
+ number of tried : 1123
+ 
+  8 6 3
+    5 7
+  2 4 1
+ number of tried : 1124
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1125
+ 
+  8 6 3
+  5 4 7
+  2   1
+ number of tried : 1126
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1127
+ 
+  8 6 3
+  5 7 1
+  2   4
+ number of tried : 1128
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1129
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1130
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1131
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1132
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1133
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1134
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1135
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1136
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1137
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1138
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1139
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1140
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1141
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1142
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1143
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1144
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1145
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1146
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1147
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1148
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1149
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1150
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1151
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1152
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1153
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1154
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1155
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1156
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1157
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1158
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1159
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1160
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1161
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1162
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1163
+ 
+  7 6 3
+  8 5  
+  2 4 1
+ number of tried : 1164
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1165
+ 
+  7 5 6
+    8 3
+  2 4 1
+ number of tried : 1166
+ 
+  7 5 6
+  8 3  
+  2 4 1
+ number of tried : 1167
+ 
+  7 5 6
+  8 4 3
+  2   1
+ number of tried : 1168
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1169
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1170
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1171
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1172
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1173
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1174
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1175
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1176
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1177
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1178
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1179
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1180
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1181
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1182
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1183
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1184
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1185
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1186
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1187
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1188
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1189
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1190
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1191
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1192
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1193
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1194
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1195
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1196
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1197
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1198
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1199
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1200
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1201
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1202
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1203
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1204
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1205
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1206
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1207
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1208
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1209
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1210
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1211
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1212
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1213
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1214
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1215
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1216
+ 
+  8   6
+  2 7 3
+  4 5 1
+ number of tried : 1217
+ 
+  8 7 6
+    2 3
+  4 5 1
+ number of tried : 1218
+ 
+  8 7 6
+  2 3  
+  4 5 1
+ number of tried : 1219
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1220
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1221
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1222
+ 
+  8 7 6
+  2 5  
+  4 1 3
+ number of tried : 1223
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1224
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1225
+ 
+  5 8 7
+    3 6
+  2 4 1
+ number of tried : 1226
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1227
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1228
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1229
+ 
+  8 3 7
+    5 6
+  2 4 1
+ number of tried : 1230
+ 
+  8 3 7
+  5 6  
+  2 4 1
+ number of tried : 1231
+ 
+  8 3 7
+  5 4 6
+  2   1
+ number of tried : 1232
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1233
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1234
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1235
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1236
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1237
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1238
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1239
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1240
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1241
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1242
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1243
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1244
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1245
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1246
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1247
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1248
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1249
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1250
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1251
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1252
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1253
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1254
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1255
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1256
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1257
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1258
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1259
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1260
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1261
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1262
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1263
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1264
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1265
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1266
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1267
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1268
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1269
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1270
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1271
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1272
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1273
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1274
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1275
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1276
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1277
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1278
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1279
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1280
+ 
+  8   6
+  5 7 1
+  2 3 4
+ number of tried : 1281
+ 
+  8 7 6
+    5 1
+  2 3 4
+ number of tried : 1282
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 1283
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1284
+ 
+  8 7 6
+    3 1
+  5 2 4
+ number of tried : 1285
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1286
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1287
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1288
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1289
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1290
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1291
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1292
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1293
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1294
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1295
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1296
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1297
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1298
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1299
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1300
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1301
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1302
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1303
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1304
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1305
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1306
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1307
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1308
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1309
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1310
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1311
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1312
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1313
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1314
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1315
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1316
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1317
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1318
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1319
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1320
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 1321
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1322
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1323
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1324
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1325
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1326
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1327
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1328
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1329
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1330
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1331
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1332
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1333
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1334
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1335
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1336
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1337
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1338
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1339
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1340
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1341
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1342
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1343
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1344
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1345
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1346
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1347
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1348
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1349
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1350
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1351
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1352
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 1353
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1354
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 1355
+ 
+  7 6 3
+  8 4  
+  5 2 1
+ number of tried : 1356
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 1357
+ 
+  7 4 6
+    8 3
+  5 2 1
+ number of tried : 1358
+ 
+  7 4 6
+  8 3  
+  5 2 1
+ number of tried : 1359
+ 
+  7 4 6
+  8 2 3
+  5   1
+ number of tried : 1360
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 1361
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1362
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1363
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1364
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1365
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1366
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1367
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1368
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1369
+ 
+  4 8 6
+    7 3
+  5 2 1
+ number of tried : 1370
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1371
+ 
+  8 6 3
+  4 7  
+  5 2 1
+ number of tried : 1372
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1373
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1374
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1375
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1376
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 1377
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1378
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1379
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1380
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1381
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1382
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1383
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1384
+ 
+  8   7
+  4 3 6
+  5 2 1
+ number of tried : 1385
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1386
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1387
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1388
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1389
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1390
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1391
+ 
+  8 7 6
+  4 3 1
+  5   2
+ number of tried : 1392
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1393
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1394
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1395
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1396
+ 
+  8 7 6
+    2 3
+  4 5 1
+ number of tried : 1397
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1398
+ 
+  8 7 6
+  4 2  
+  5 1 3
+ number of tried : 1399
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1400
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 1401
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1402
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1403
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1404
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1405
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1406
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1407
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1408
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1409
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1410
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1411
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1412
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1413
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1414
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1415
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1416
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1417
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1418
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1419
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1420
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1421
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1422
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1423
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1424
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1425
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1426
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1427
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1428
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1429
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1430
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1431
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1432
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1433
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1434
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1435
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1436
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1437
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1438
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1439
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1440
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1441
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1442
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1443
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1444
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1445
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1446
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1447
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1448
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 1449
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1450
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1451
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1452
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1453
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1454
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1455
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1456
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1457
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1458
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1459
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1460
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1461
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1462
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1463
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1464
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1465
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1466
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1467
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1468
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1469
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1470
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1471
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1472
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1473
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1474
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1475
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1476
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1477
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1478
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1479
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1480
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1481
+ 
+  5 8 7
+    4 6
+  2 1 3
+ number of tried : 1482
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1483
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1484
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1485
+ 
+  8 4 7
+    5 6
+  2 1 3
+ number of tried : 1486
+ 
+  8 4 7
+  5 6  
+  2 1 3
+ number of tried : 1487
+ 
+  8 4 7
+  5 1 6
+  2   3
+ number of tried : 1488
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1489
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1490
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1491
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1492
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1493
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1494
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1495
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1496
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1497
+ 
+  5 8 6
+    7 4
+  2 1 3
+ number of tried : 1498
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1499
+ 
+  8 6 4
+  5 7  
+  2 1 3
+ number of tried : 1500
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1501
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1502
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1503
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1504
+ 
+  7   6
+  8 5 4
+  2 1 3
+ number of tried : 1505
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1506
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1507
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1508
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1509
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1510
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1511
+ 
+  8 7 6
+  2 5 4
+  1   3
+ number of tried : 1512
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1513
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1514
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1515
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1516
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1517
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1518
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1519
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1520
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1521
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1522
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1523
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1524
+ 
+  8 7 6
+    1 4
+  5 2 3
+ number of tried : 1525
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1526
+ 
+  8 7 6
+  5 1  
+  2 3 4
+ number of tried : 1527
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1528
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1529
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1530
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1531
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1532
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1533
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1534
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1535
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1536
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1537
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1538
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1539
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1540
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1541
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1542
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1543
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1544
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1545
+ 
+  5 8 6
+    7 3
+  2 4 1
+ number of tried : 1546
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1547
+ 
+  8 6 3
+  5 7  
+  2 4 1
+ number of tried : 1548
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1549
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1550
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1551
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1552
+ 
+  7   6
+  8 5 3
+  2 4 1
+ number of tried : 1553
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1554
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1555
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1556
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1557
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1558
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1559
+ 
+  8 7 6
+  2 5 3
+  4   1
+ number of tried : 1560
+ 
+  8   7
+  5 3 6
+  2 4 1
+ number of tried : 1561
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1562
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1563
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1564
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1565
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1566
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1567
+ 
+  8 7 6
+  5 3 1
+  2   4
+ number of tried : 1568
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1569
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1570
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1571
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1572
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1573
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1574
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1575
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1576
+ 
+  7   6
+  8 4 3
+  5 2 1
+ number of tried : 1577
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1578
+ 
+  8   6
+  4 7 3
+  5 2 1
+ number of tried : 1579
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1580
+ 
+  8 7 6
+  4 3  
+  5 2 1
+ number of tried : 1581
+ 
+  8 7 6
+  4 2 3
+  5   1
+ number of tried : 1582
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1583
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1584
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1585
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1586
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1587
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1588
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1589
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1590
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1591
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1592
+ 
+  8   7
+  5 4 6
+  2 1 3
+ number of tried : 1593
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1594
+ 
+  8   6
+  5 7 4
+  2 1 3
+ number of tried : 1595
+ 
+  8 7 6
+    5 4
+  2 1 3
+ number of tried : 1596
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1597
+ 
+  8 7 6
+  5 1 4
+  2   3
+ number of tried : 1598
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1599
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1600
+ 
+  8   6
+  5 7 3
+  2 4 1
+ number of tried : 1601
+ 
+  8 7 6
+    5 3
+  2 4 1
+ number of tried : 1602
+ 
+  8 7 6
+  5 3  
+  2 4 1
+ number of tried : 1603
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1604
+ 
+  8 7 6
+    4 3
+  5 2 1
+ number of tried : 1605
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1606
+ 
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried : 1607
+ 
+  8 7 6
+  5 4 3
+  2   1
+ number of tried : 1608
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1609
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1610
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1611
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1612
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 1613
+ 
+  5 8 7
+  2 4 6
+    1 3
+ number of tried : 1614
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1615
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1616
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1617
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1618
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1619
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1620
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1621
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1622
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1623
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 1624
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1625
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 1626
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 1627
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1628
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 1629
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1630
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 1631
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 1632
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1633
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1634
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1635
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1636
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 1637
+ 
+  5 8 7
+  2 4 6
+    1 3
+ number of tried : 1638
+ 
+    5 7
+  4 8 6
+  2 1 3
+ number of tried : 1639
+ 
+  5 7  
+  4 8 6
+  2 1 3
+ number of tried : 1640
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 1641
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1642
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 1643
+ 
+  5 8 7
+  2 4 6
+    1 3
+ number of tried : 1644
+ 
+  5 8  
+  4 6 7
+  2 1 3
+ number of tried : 1645
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 1646
+ 
+  5 8 7
+  4 6 3
+  2 1  
+ number of tried : 1647
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 1648
+ 
+  5 8 7
+  4 1 6
+    2 3
+ number of tried : 1649
+ 
+  5 8 7
+  4 1 6
+  2 3  
+ number of tried : 1650
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1651
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 1652
+ 
+  5 8 7
+  2 4 6
+    1 3
+ number of tried : 1653
+ 
+  5 8 7
+  2   6
+  1 4 3
+ number of tried : 1654
+ 
+  5 8 7
+  2 4 6
+    1 3
+ number of tried : 1655
+ 
+  5 8 7
+  2 4 6
+  1 3  
+ number of tried : 1656
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1657
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1658
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1659
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1660
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 1661
+ 
+  5 8 7
+  2 4 6
+    1 3
+ number of tried : 1662
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1663
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1664
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1665
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1666
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1667
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1668
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1669
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1670
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1671
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 1672
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1673
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 1674
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 1675
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1676
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 1677
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1678
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 1679
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 1680
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1681
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1682
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1683
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1684
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1685
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1686
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1687
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1688
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1689
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 1690
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1691
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 1692
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1693
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1694
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1695
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1696
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 1697
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 1698
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1699
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1700
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1701
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 1702
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 1703
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1704
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1705
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1706
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1707
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1708
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 1709
+ 
+  5 8 7
+  2 4 6
+    1 3
+ number of tried : 1710
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1711
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1712
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1713
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1714
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1715
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1716
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1717
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1718
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1719
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 1720
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1721
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 1722
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 1723
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1724
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 1725
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1726
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 1727
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 1728
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 1729
+ 
+  4 7  
+  8 5 6
+  2 1 3
+ number of tried : 1730
+ 
+  4 5 7
+  8   6
+  2 1 3
+ number of tried : 1731
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 1732
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1733
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 1734
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1735
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1736
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1737
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 1738
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1739
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 1740
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 1741
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1742
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 1743
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1744
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 1745
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 1746
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 1747
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1748
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 1749
+ 
+  8 4 7
+  2   6
+  1 5 3
+ number of tried : 1750
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 1751
+ 
+  8 4 7
+  2 5 6
+  1 3  
+ number of tried : 1752
+ 
+    8 4
+  5 6 7
+  2 1 3
+ number of tried : 1753
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 1754
+ 
+  8 6 4
+  5   7
+  2 1 3
+ number of tried : 1755
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 1756
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1757
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 1758
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1759
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1760
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1761
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 1762
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1763
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 1764
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 1765
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1766
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 1767
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1768
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 1769
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 1770
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 1771
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1772
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 1773
+ 
+  8 4 7
+  5   3
+  2 6 1
+ number of tried : 1774
+ 
+  8 4 7
+  5 6 3
+    2 1
+ number of tried : 1775
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 1776
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1777
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1778
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1779
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 1780
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1781
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 1782
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 1783
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1784
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 1785
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1786
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 1787
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 1788
+ 
+    4 7
+  8 1 6
+  5 2 3
+ number of tried : 1789
+ 
+  8 4 7
+  1   6
+  5 2 3
+ number of tried : 1790
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 1791
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1792
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 1793
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 1794
+ 
+  8 4  
+  5 1 7
+  2 3 6
+ number of tried : 1795
+ 
+  8 4 7
+  5   1
+  2 3 6
+ number of tried : 1796
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 1797
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1798
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 1799
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 1800
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1801
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1802
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1803
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1804
+ 
+  5 8 7
+  4   6
+  2 1 3
+ number of tried : 1805
+ 
+  5 8 7
+  2 4 6
+    1 3
+ number of tried : 1806
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1807
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1808
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1809
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1810
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1811
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1812
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1813
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1814
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1815
+ 
+    4 7
+  8 5 6
+  2 1 3
+ number of tried : 1816
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1817
+ 
+  8 4 7
+  2 5 6
+    1 3
+ number of tried : 1818
+ 
+  8 4  
+  5 6 7
+  2 1 3
+ number of tried : 1819
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1820
+ 
+  8 4 7
+  5 6 3
+  2 1  
+ number of tried : 1821
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1822
+ 
+  8 4 7
+  5 1 6
+    2 3
+ number of tried : 1823
+ 
+  8 4 7
+  5 1 6
+  2 3  
+ number of tried : 1824
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1825
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1826
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1827
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1828
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1829
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1830
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1831
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1832
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1833
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 1834
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1835
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 1836
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1837
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1838
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1839
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1840
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 1841
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 1842
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1843
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1844
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1845
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 1846
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 1847
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1848
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1849
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1850
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1851
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1852
+ 
+  5 8 6
+  7   4
+  2 1 3
+ number of tried : 1853
+ 
+  5 8 6
+  2 7 4
+    1 3
+ number of tried : 1854
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1855
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1856
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1857
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1858
+ 
+  8 6 4
+  5   7
+  2 1 3
+ number of tried : 1859
+ 
+  8 6 4
+  5 7 3
+  2 1  
+ number of tried : 1860
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1861
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1862
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1863
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 1864
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1865
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 1866
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1867
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1868
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1869
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1870
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 1871
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 1872
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 1873
+ 
+  7 6  
+  8 5 4
+  2 1 3
+ number of tried : 1874
+ 
+  7 5 6
+  8   4
+  2 1 3
+ number of tried : 1875
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 1876
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1877
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 1878
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1879
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1880
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1881
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 1882
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1883
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 1884
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1885
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1886
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1887
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1888
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 1889
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 1890
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 1891
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1892
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 1893
+ 
+  8 7 6
+  2   4
+  1 5 3
+ number of tried : 1894
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 1895
+ 
+  8 7 6
+  2 5 4
+  1 3  
+ number of tried : 1896
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1897
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1898
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1899
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1900
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1901
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1902
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1903
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1904
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1905
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 1906
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1907
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 1908
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1909
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1910
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1911
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1912
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 1913
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 1914
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1915
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1916
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1917
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 1918
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 1919
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1920
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1921
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1922
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1923
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 1924
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1925
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 1926
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1927
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1928
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1929
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1930
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 1931
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 1932
+ 
+    7 6
+  8 1 4
+  5 2 3
+ number of tried : 1933
+ 
+  8 7 6
+  1   4
+  5 2 3
+ number of tried : 1934
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 1935
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1936
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 1937
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 1938
+ 
+  8 7  
+  5 1 6
+  2 3 4
+ number of tried : 1939
+ 
+  8 7 6
+  5   1
+  2 3 4
+ number of tried : 1940
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 1941
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1942
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 1943
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 1944
+ 
+    8 7
+  5 4 6
+  2 1 3
+ number of tried : 1945
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1946
+ 
+  8 4 7
+  5   6
+  2 1 3
+ number of tried : 1947
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1948
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1949
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1950
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1951
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1952
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1953
+ 
+    7 6
+  8 5 4
+  2 1 3
+ number of tried : 1954
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1955
+ 
+  8 7 6
+  2 5 4
+    1 3
+ number of tried : 1956
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1957
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1958
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1959
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1960
+ 
+  8 7 6
+  5 1 4
+    2 3
+ number of tried : 1961
+ 
+  8 7 6
+  5 1 4
+  2 3  
+ number of tried : 1962
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1963
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1964
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1965
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 1966
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 1967
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1968
+ 
+    8 6
+  5 7 3
+  2 4 1
+ number of tried : 1969
+ 
+  8 6  
+  5 7 3
+  2 4 1
+ number of tried : 1970
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 1971
+ 
+    7 6
+  8 5 3
+  2 4 1
+ number of tried : 1972
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 1973
+ 
+  8 7 6
+  2 5 3
+    4 1
+ number of tried : 1974
+ 
+  8 7  
+  5 3 6
+  2 4 1
+ number of tried : 1975
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 1976
+ 
+  8 7 6
+  5 3 1
+  2 4  
+ number of tried : 1977
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 1978
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 1979
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1980
+ 
+    7 6
+  8 4 3
+  5 2 1
+ number of tried : 1981
+ 
+  8 7 6
+  4   3
+  5 2 1
+ number of tried : 1982
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 1983
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 1984
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 1985
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1986
+ 
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried : 1987
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1988
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1989
+ 
+  8 7 6
+  5   3
+  2 4 1
+ number of tried : 1990
+ 
+  8 7 6
+  5 4 3
+    2 1
+ number of tried : 1991
+ 
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried : 1992
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1993
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 1994
+ 
+  8 7 6
+  5   4
+  2 1 3
+ number of tried : 1995
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1996
+ 
+  5 8 6
+  7   4
+  2 1 3
+ number of tried : 1997
+ 
+  5 8 6
+  2 7 4
+    1 3
+ number of tried : 1998
+ 
+    8 6
+  5 7 4
+  2 1 3
+ number of tried : 1999
+ 
+  8 6  
+  5 7 4
+  2 1 3
+ number of tried : 2000
+ 
+exceed limit
+
+Process finished with exit code 0
+
+##Output for partII (InformedSearch)
+
+C:\Python27\python.exe "C:/Users/Jaemin Jung/Desktop/c212/introAI/Assignment2.py"
+  8 7 6
+  5 4 3
+  2 1  
+ number of tried :  1
+  8 7 6
+  5 4  
+  2 1 3
+ number of tried :  2
+  8 7 6
+  5 4 3
+  2   1
+ number of tried :  3
+  8 7  
+  5 4 6
+  2 1 3
+ number of tried :  4
+  8 7 6
+  5   3
+  2 4 1
+ number of tried :  5
+  8 7 6
+  5 4 3
+    2 1
+ number of tried :  6
+  8   6
+  5 7 3
+  2 4 1
+ number of tried :  7
+  8 7 6
+    5 3
+  2 4 1
+ number of tried :  8
+  8 7 6
+  2 5 3
+    4 1
+ number of tried :  9
+  8 7 6
+  2 5 3
+  4   1
+ number of tried :  10
+  8 7 6
+  2 5 3
+  4 1  
+ number of tried :  11
+  8 7 6
+  2 5  
+  4 1 3
+ number of tried :  12
+  8 7  
+  2 5 6
+  4 1 3
+ number of tried :  13
+  8 7 6
+  2   3
+  4 5 1
+ number of tried :  14
+  8 7 6
+  2   5
+  4 1 3
+ number of tried :  15
+  8 7 6
+  2 1 5
+  4   3
+ number of tried :  16
+  8 7 6
+  2 1 5
+  4 3  
+ number of tried :  17
+  8 7 6
+  2 1  
+  4 3 5
+ number of tried :  18
+  8 7  
+  2 1 6
+  4 3 5
+ number of tried :  19
+  8   7
+  2 5 6
+  4 1 3
+ number of tried :  20
+  8   6
+  2 7 3
+  4 5 1
+ number of tried :  21
+  8 7 6
+  2 3  
+  4 5 1
+ number of tried :  22
+  8 7 6
+  2 3 1
+  4 5  
+ number of tried :  23
+  8 7 6
+  2 3 1
+  4   5
+ number of tried :  24
+  8   6
+  2 7 5
+  4 1 3
+ number of tried :  25
+  8 7 6
+  2 1 5
+    4 3
+ number of tried :  26
+  8 5 7
+  2   6
+  4 1 3
+ number of tried :  27
+  8 5 7
+  2 1 6
+  4   3
+ number of tried :  28
+  8 5 7
+  2 1 6
+  4 3  
+ number of tried :  29
+  8 6  
+  2 7 3
+  4 5 1
+ number of tried :  30
+  8 6 3
+  2 7  
+  4 5 1
+ number of tried :  31
+  8 6 3
+  2 7 1
+  4 5  
+ number of tried :  32
+  8 6 3
+  2 7 1
+  4   5
+ number of tried :  33
+  8 6 3
+  2   1
+  4 7 5
+ number of tried :  34
+  8 6 3
+  2 1  
+  4 7 5
+ number of tried :  35
+  8 6 3
+  2 1 5
+  4 7  
+ number of tried :  36
+  8 6 3
+  2 1 5
+  4   7
+ number of tried :  37
+  8   3
+  2 6 1
+  4 7 5
+ number of tried :  38
+  8 6 3
+    2 1
+  4 7 5
+ number of tried :  39
+  8 6 3
+  4 2 1
+    7 5
+ number of tried :  40
+  8 6 3
+  4 2 1
+  7   5
+ number of tried :  41
+  8 6 3
+  4 2 1
+  7 5  
+ number of tried :  42
+  8 6 3
+  4 2  
+  7 5 1
+ number of tried :  43
+  8 6 3
+  4   1
+  7 2 5
+ number of tried :  44
+  8 6 3
+  4 1  
+  7 2 5
+ number of tried :  45
+  8 6 3
+  4 1 5
+  7 2  
+ number of tried :  46
+  8 6 3
+  4 1 5
+  7   2
+ number of tried :  47
+  8 6 3
+  4   2
+  7 5 1
+ number of tried :  48
+  8 6 3
+  4 5 2
+  7   1
+ number of tried :  49
+  8 6 3
+  4 5 2
+  7 1  
+ number of tried :  50
+  8 6 3
+  4 5  
+  7 1 2
+ number of tried :  51
+  8 6 3
+  4   5
+  7 1 2
+ number of tried :  52
+  8 6 3
+  4   5
+  7 1 2
+ number of tried :  53
+  8   3
+  4 6 1
+  7 2 5
+ number of tried :  54
+  8 6  
+  4 1 3
+  7 2 5
+ number of tried :  55
+  8 6 3
+  4 1 5
+    7 2
+ number of tried :  56
+  8   3
+  4 6 2
+  7 5 1
+ number of tried :  57
+  8 6 3
+  4 5 2
+    7 1
+ number of tried :  58
+  8 6  
+  4 5 3
+  7 1 2
+ number of tried :  59
+  8   3
+  4 6 5
+  7 1 2
+ number of tried :  60
+  8   3
+  4 6 5
+  7 1 2
+ number of tried :  61
+  8   6
+  4 1 3
+  7 2 5
+ number of tried :  62
+  8 1 6
+  4   3
+  7 2 5
+ number of tried :  63
+  8 1 6
+  4 2 3
+  7   5
+ number of tried :  64
+  8 1 6
+  4 2 3
+  7 5  
+ number of tried :  65
+  8 1 6
+  4 2  
+  7 5 3
+ number of tried :  66
+  8 1  
+  4 2 6
+  7 5 3
+ number of tried :  67
+  8 1 6
+  4 3  
+  7 2 5
+ number of tried :  68
+  8 1 6
+  4 3 5
+  7 2  
+ number of tried :  69
+  8 1 6
+  4   2
+  7 5 3
+ number of tried :  70
+  8 1 6
+  4 5 2
+  7   3
+ number of tried :  71
+  8 1 6
+  4 5 2
+  7 3  
+ number of tried :  72
+  8 1  
+  4 3 6
+  7 2 5
+ number of tried :  73
+  8 1 6
+  4 3 5
+  7   2
+ number of tried :  74
+  8 1 6
+  4 5  
+  7 3 2
+ number of tried :  75
+  8 1  
+  4 5 6
+  7 3 2
+ number of tried :  76
+  8 1 6
+  4 2 3
+    7 5
+ number of tried :  77
+  8   1
+  4 2 6
+  7 5 3
+ number of tried :  78
+  8 2 1
+  4   6
+  7 5 3
+ number of tried :  79
+  8 2 1
+  4 5 6
+  7   3
+ number of tried :  80
+  8 2 1
+  4 5 6
+  7 3  
+ number of tried :  81
+  8 2 1
+  4 5  
+  7 3 6
+ number of tried :  82
+  8 2 1
+  4 6  
+  7 5 3
+ number of tried :  83
+  8 2 1
+  4 6 3
+  7 5  
+ number of tried :  84
+  8 2 1
+  4 6 3
+  7   5
+ number of tried :  85
+  8 2 1
+  4 5 6
+    7 3
+ number of tried :  86
+  8 2 1
+  4   3
+  7 6 5
+ number of tried :  87
+  8 2 1
+  4 3  
+  7 6 5
+ number of tried :  88
+  8 2 1
+  4 3 5
+  7 6  
+ number of tried :  89
+  8 2 1
+  4 3 5
+  7   6
+ number of tried :  90
+  8 2 1
+  4   5
+  7 3 6
+ number of tried :  91
+  8 2 1
+  4   5
+  7 3 6
+ number of tried :  92
+  8 1 6
+  4 5 2
+    7 3
+ number of tried :  93
+  8 2 1
+    4 6
+  7 5 3
+ number of tried :  94
+  8 2 1
+  4 6 3
+    7 5
+ number of tried :  95
+  8 2 1
+    5 6
+  4 7 3
+ number of tried :  96
+  8 2 1
+  4 3 5
+    7 6
+ number of tried :  97
+    2 1
+  8 4 6
+  7 5 3
+ number of tried :  98
+    2 1
+  8 5 6
+  4 7 3
+ number of tried :  99
+  8 2 1
+  5   6
+  4 7 3
+ number of tried :  100
+  2   1
+  8 4 6
+  7 5 3
+ number of tried :  101
+  2 1  
+  8 4 6
+  7 5 3
+ number of tried :  102
+  2 1 6
+  8 4  
+  7 5 3
+ number of tried :  103
+  2 1 6
+  8 4 3
+  7 5  
+ number of tried :  104
+  2 1 6
+  8 4 3
+  7   5
+ number of tried :  105
+  2 1 6
+  8   3
+  7 4 5
+ number of tried :  106
+  2 1 6
+  8 3  
+  7 4 5
+ number of tried :  107
+  2 1 6
+  8 3 5
+  7 4  
+ number of tried :  108
+  2 1  
+  8 3 6
+  7 4 5
+ number of tried :  109
+  2 4 1
+  8   6
+  7 5 3
+ number of tried :  110
+  2 4 1
+  8 5 6
+  7   3
+ number of tried :  111
+  2 4 1
+  8 5 6
+  7 3  
+ number of tried :  112
+  2 1 6
+    8 3
+  7 4 5
+ number of tried :  113
+  2 1 6
+  8 3 5
+  7   4
+ number of tried :  114
+  2 4 1
+  8 5  
+  7 3 6
+ number of tried :  115
+  2   1
+  8 5 6
+  4 7 3
+ number of tried :  116
+  2 1  
+  8 5 6
+  4 7 3
+ number of tried :  117
+  2 1 6
+  8 5  
+  4 7 3
+ number of tried :  118
+  2 1 6
+  8 5 3
+  4 7  
+ number of tried :  119
+  2 1 6
+  8 5 3
+  4   7
+ number of tried :  120
+  8 2 1
+  5 7 6
+  4   3
+ number of tried :  121
+  8 2 1
+  5 7 6
+  4 3  
+ number of tried :  122
+  2 1 6
+  8   4
+  7 5 3
+ number of tried :  123
+  2 1 6
+  8 5 4
+  7   3
+ number of tried :  124
+  2 1 6
+  8 5 4
+  7 3  
+ number of tried :  125
+  2 1 6
+  8 5  
+  7 3 4
+ number of tried :  126
+  2 1  
+  8 5 6
+  7 3 4
+ number of tried :  127
+  2 1 6
+  8 4 3
+    7 5
+ number of tried :  128
+  2   1
+  8 3 6
+  7 4 5
+ number of tried :  129
+  2 3 1
+  8   6
+  7 4 5
+ number of tried :  130
+  2 3 1
+  8 4 6
+  7   5
+ number of tried :  131
+  2 3 1
+  8 4 6
+  7 5  
+ number of tried :  132
+  2 3 1
+  8 4  
+  7 5 6
+ number of tried :  133
+  2 3 1
+    8 6
+  7 4 5
+ number of tried :  134
+  2 3 1
+  8 6  
+  7 4 5
+ number of tried :  135
+  2 3 1
+  8 6 5
+  7 4  
+ number of tried :  136
+  2 4 1
+    8 6
+  7 5 3
+ number of tried :  137
+  2 4 1
+  8 6  
+  7 5 3
+ number of tried :  138
+  2 4 1
+  8 6 3
+  7 5  
+ number of tried :  139
+  2 4 1
+  8 6 3
+  7   5
+ number of tried :  140
+  2 4 1
+  8 5 6
+    7 3
+ number of tried :  141
+  2 1 6
+  7 8 3
+    4 5
+ number of tried :  142
+  2 1 6
+  7 8 3
+  4   5
+ number of tried :  143
+  2 1 6
+  7 8 3
+  4 5  
+ number of tried :  144
+  2 1 6
+  7   3
+  4 8 5
+ number of tried :  145
+  2 1 6
+  7 3  
+  4 8 5
+ number of tried :  146
+  2 1 6
+  7 3 5
+  4 8  
+ number of tried :  147
+  2 1  
+  7 3 6
+  4 8 5
+ number of tried :  148
+  2 1 6
+  7 3 5
+  4   8
+ number of tried :  149
+  2 1 6
+  7 8  
+  4 5 3
+ number of tried :  150
+  2 1 6
+    7 3
+  4 8 5
+ number of tried :  151
+  2 1 6
+  4 7 3
+    8 5
+ number of tried :  152
+  2 1 6
+  4 7 3
+  8   5
+ number of tried :  153
+  2 1 6
+  4 7 3
+  8 5  
+ number of tried :  154
+  2 1 6
+  4   3
+  8 7 5
+ number of tried :  155
+  2 1 6
+  4 3  
+  8 7 5
+ number of tried :  156
+  2 1 6
+  4 3 5
+  8 7  
+ number of tried :  157
+  2 1  
+  4 3 6
+  8 7 5
+ number of tried :  158
+  2 1 6
+  4 7  
+  8 5 3
+ number of tried :  159
+  2 1 6
+  4 3 5
+  8   7
+ number of tried :  160
+  2 1  
+  4 7 6
+  8 5 3
+ number of tried :  161
+  2 1 6
+  4 3 5
+    8 7
+ number of tried :  162
+  2   1
+  7 3 6
+  4 8 5
+ number of tried :  163
+  2 3 1
+  7   6
+  4 8 5
+ number of tried :  164
+  2 3 1
+  7 6  
+  4 8 5
+ number of tried :  165
+  2 3 1
+  7 6 5
+  4 8  
+ number of tried :  166
+  2 3 1
+  7 8 6
+  4   5
+ number of tried :  167
+  2 3 1
+  7 8 6
+  4 5  
+ number of tried :  168
+  2 1  
+  7 8 6
+  4 5 3
+ number of tried :  169
+  2   1
+  4 3 6
+  8 7 5
+ number of tried :  170
+  2 3 1
+  4   6
+  8 7 5
+ number of tried :  171
+  2 3 1
+  4 7 6
+  8   5
+ number of tried :  172
+  2 3 1
+  4 7 6
+  8 5  
+ number of tried :  173
+  2 3 1
+  4 7 6
+    8 5
+ number of tried :  174
+  2 3 1
+  4 6  
+  8 7 5
+ number of tried :  175
+  2 3 1
+  4 6 5
+  8 7  
+ number of tried :  176
+  2 3 1
+  4 7  
+  8 5 6
+ number of tried :  177
+    2 1
+  7 3 6
+  4 8 5
+ number of tried :  178
+  2 3 1
+    7 6
+  4 8 5
+ number of tried :  179
+  2 3 1
+  7 6 5
+  4   8
+ number of tried :  180
+  2 3 1
+  7 8  
+  4 5 6
+ number of tried :  181
+    2 1
+  4 3 6
+  8 7 5
+ number of tried :  182
+  2 3 1
+    7 6
+  4 8 5
+ number of tried :  183
+  2 3 1
+  4 6 5
+  8   7
+ number of tried :  184
+  7 2 1
+    3 6
+  4 8 5
+ number of tried :  185
+  7 2 1
+  4 3 6
+    8 5
+ number of tried :  186
+  7 2 1
+  4 3 6
+  8   5
+ number of tried :  187
+  7 2 1
+  4 3 6
+  8 5  
+ number of tried :  188
+  7 2 1
+  4 3  
+  8 5 6
+ number of tried :  189
+  7 2 1
+  4   3
+  8 5 6
+ number of tried :  190
+  7 2 1
+  4 5 3
+  8   6
+ number of tried :  191
+  7 2 1
+  4 5 3
+  8 6  
+ number of tried :  192
+  7 2 1
+  4 5 3
+    8 6
+ number of tried :  193
+  7 2 1
+  4 5  
+  8 6 3
+ number of tried :  194
+  7 2 1
+    5 3
+  4 8 6
+ number of tried :  195
+    2 1
+  7 5 3
+  4 8 6
+ number of tried :  196
+  7 2 1
+  5   3
+  4 8 6
+ number of tried :  197
+  2   1
+  7 5 3
+  4 8 6
+ number of tried :  198
+  2 1  
+  7 5 3
+  4 8 6
+ number of tried :  199
+  2 1 3
+  7 5  
+  4 8 6
+ number of tried :  200
+  2 1 3
+  7 5 6
+  4 8  
+ number of tried :  201
+  2 1 3
+  7 5 6
+  4   8
+ number of tried :  202
+  2 1 3
+  7   5
+  4 8 6
+ number of tried :  203
+  2 1 3
+  7   6
+  4 5 8
+ number of tried :  204
+  2 1 3
+  7 5 6
+    4 8
+ number of tried :  205
+  2 1 3
+    5 6
+  7 4 8
+ number of tried :  206
+  2 1 3
+  5   6
+  7 4 8
+ number of tried :  207
+  2 1 3
+  5 4 6
+  7   8
+ number of tried :  208
+  2 1 3
+  5 4 6
+  7 8  
+ number of tried :  209
+  2 1 3
+  5 4  
+  7 8 6
+ number of tried :  210
+  2 1 3
+  5 6  
+  7 4 8
+ number of tried :  211
+  2 1 3
+  5 6 8
+  7 4  
+ number of tried :  212
+  2 1 3
+  5   4
+  7 8 6
+ number of tried :  213
+  2 1 3
+    5 4
+  7 8 6
+ number of tried :  214
+  2 1 3
+  7 8 5
+  4   6
+ number of tried :  215
+  2 1 3
+  7 8 5
+  4 6  
+ number of tried :  216
+  2 1 3
+  7 6  
+  4 5 8
+ number of tried :  217
+  2 1 3
+  7 6 8
+  4 5  
+ number of tried :  218
+    1 3
+  2 5 6
+  7 4 8
+ number of tried :  219
+  1   3
+  2 5 6
+  7 4 8
+ number of tried :  220
+  1 5 3
+  2   6
+  7 4 8
+ number of tried :  221
+  1 5 3
+  2 4 6
+  7   8
+ number of tried :  222
+  1 5 3
+  2 4 6
+  7 8  
+ number of tried :  223
+  1 5 3
+  2 4  
+  7 8 6
+ number of tried :  224
+  1 3  
+  2 5 6
+  7 4 8
+ number of tried :  225
+  1 5 3
+    2 6
+  7 4 8
+ number of tried :  226
+  1 5 3
+  2 6  
+  7 4 8
+ number of tried :  227
+  1 5 3
+  2 6 8
+  7 4  
+ number of tried :  228
+  1 5 3
+  2   4
+  7 8 6
+ number of tried :  229
+  1 3 6
+  2 5  
+  7 4 8
+ number of tried :  230
+  1 3 6
+  2 5 8
+  7 4  
+ number of tried :  231
+  1   3
+  2 5 4
+  7 8 6
+ number of tried :  232
+  1 5 3
+  2 4 6
+    7 8
+ number of tried :  233
+  1 5  
+  2 4 3
+  7 8 6
+ number of tried :  234
+  1 5 3
+  7 2 6
+    4 8
+ number of tried :  235
+  1 5 3
+  7 2 6
+  4   8
+ number of tried :  236
+  1 5 3
+  7 2 6
+  4 8  
+ number of tried :  237
+  1 5 3
+  7 2  
+  4 8 6
+ number of tried :  238
+  1 5 3
+  7   2
+  4 8 6
+ number of tried :  239
+  1   3
+  7 5 2
+  4 8 6
+ number of tried :  240
+  1 5 3
+    2 4
+  7 8 6
+ number of tried :  241
+  1 5 3
+  2 8 4
+  7   6
+ number of tried :  242
+  1 5 3
+  2 8 4
+  7 6  
+ number of tried :  243
+  1 3  
+  2 5 4
+  7 8 6
+ number of tried :  244
+  1 3 4
+  2 5  
+  7 8 6
+ number of tried :  245
+  1 3 4
+  2 5 6
+  7 8  
+ number of tried :  246
+  1 3 4
+  2 5 6
+  7   8
+ number of tried :  247
+  1 5 3
+  7   6
+  4 2 8
+ number of tried :  248
+  1 5 3
+  7 8 2
+  4   6
+ number of tried :  249
+  1 5 3
+  7 8 2
+  4 6  
+ number of tried :  250
+  1 3  
+  7 5 2
+  4 8 6
+ number of tried :  251
+  1 3 2
+  7 5  
+  4 8 6
+ number of tried :  252
+  1 3 2
+  7 5 6
+  4 8  
+ number of tried :  253
+  1 3 2
+  7 5 6
+  4   8
+ number of tried :  254
+  1   3
+  7 5 6
+  4 2 8
+ number of tried :  255
+  1 3 2
+  7   5
+  4 8 6
+ number of tried :  256
+  1 3 2
+  7   6
+  4 5 8
+ number of tried :  257
+  1 3 2
+  7 5 6
+    4 8
+ number of tried :  258
+  1 3 2
+    5 6
+  7 4 8
+ number of tried :  259
+  1 3 2
+  5   6
+  7 4 8
+ number of tried :  260
+  1 3 2
+  5 4 6
+  7   8
+ number of tried :  261
+  1 3 2
+  5 4 6
+  7 8  
+ number of tried :  262
+  1 3 2
+  5 4  
+  7 8 6
+ number of tried :  263
+  1 3 2
+  5 6  
+  7 4 8
+ number of tried :  264
+  1 3 2
+  5 6 8
+  7 4  
+ number of tried :  265
+  1 3  
+  5 4 2
+  7 8 6
+ number of tried :  266
+  1   3
+  5 4 2
+  7 8 6
+ number of tried :  267
+  1 4 3
+  5   2
+  7 8 6
+ number of tried :  268
+  1 4 3
+  5 2  
+  7 8 6
+ number of tried :  269
+  1 4 3
+  5 2 6
+  7 8  
+ number of tried :  270
+  1 4 3
+  5 2 6
+  7   8
+ number of tried :  271
+  1 4 3
+    5 2
+  7 8 6
+ number of tried :  272
+  1 4 3
+  5 8 2
+  7   6
+ number of tried :  273
+  1 4 3
+  5 8 2
+  7 6  
+ number of tried :  274
+  1 4 3
+  5   6
+  7 2 8
+ number of tried :  275
+  1 4 3
+  7 5 2
+    8 6
+ number of tried :  276
+  1 4 3
+    5 6
+  7 2 8
+ number of tried :  277
+  1 4 3
+  7 5 2
+  8   6
+ number of tried :  278
+  1 4 3
+  7 5 2
+  8 6  
+ number of tried :  279
+  1 3 2
+  5   4
+  7 8 6
+ number of tried :  280
+  1 4  
+  5 2 3
+  7 8 6
+ number of tried :  281
+  1 4 3
+  5 2 6
+    7 8
+ number of tried :  282
+  1   3
+  5 4 6
+  7 2 8
+ number of tried :  283
+  1 4 3
+  5 6  
+  7 2 8
+ number of tried :  284
+  1 4 3
+  5 6 8
+  7 2  
+ number of tried :  285
+  1 4 3
+  7 5 6
+    2 8
+ number of tried :  286
+  1 4 3
+  7 5 6
+  2   8
+ number of tried :  287
+  1 4 3
+  7 5 6
+  2 8  
+ number of tried :  288
+  1 4 3
+  7 5  
+  2 8 6
+ number of tried :  289
+  1 3 2
+    5 4
+  7 8 6
+ number of tried :  290
+  2 1 3
+  5 4 6
+    7 8
+ number of tried :  291
+  2 1  
+  5 4 3
+  7 8 6
+ number of tried :  292
+  2 1 3
+  5 8 4
+  7   6
+ number of tried :  293
+  2 1 3
+  5 8 4
+  7 6  
+ number of tried :  294
+  2 1 3
+  7 5 4
+    8 6
+ number of tried :  295
+  1 5 3
+  2 6 8
+  7   4
+ number of tried :  296
+  1 3 6
+  2   5
+  7 4 8
+ number of tried :  297
+  1 3 6
+  2 4 5
+  7   8
+ number of tried :  298
+  1 3 6
+  2 4 5
+  7 8  
+ number of tried :  299
+  1 3 6
+  2 4  
+  7 8 5
+ number of tried :  300
+  1 3  
+  2 4 6
+  7 8 5
+ number of tried :  301
+  1   3
+  2 4 6
+  7 8 5
+ number of tried :  302
+  1 4 3
+  2   6
+  7 8 5
+ number of tried :  303
+  1 4 3
+    2 6
+  7 8 5
+ number of tried :  304
+  1 4 3
+  2 6  
+  7 8 5
+ number of tried :  305
+  1 4 3
+  2 6 5
+  7 8  
+ number of tried :  306
+  1 4 3
+  2 8 6
+  7   5
+ number of tried :  307
+  1 4 3
+  2 8 6
+  7 5  
+ number of tried :  308
+  1 4 3
+  7 2 6
+    8 5
+ number of tried :  309
+  1 4 3
+  2 6 5
+  7   8
+ number of tried :  310
+  1 4 3
+  2 8  
+  7 5 6
+ number of tried :  311
+  1 4 3
+  7 2 6
+  8   5
+ number of tried :  312
+  1 4 3
+  7 2 6
+  8 5  
+ number of tried :  313
+  1 4 3
+  2   5
+  7 6 8
+ number of tried :  314
+  1 4 3
+  2 5  
+  7 6 8
+ number of tried :  315
+  1 4 3
+  2 5 8
+  7 6  
+ number of tried :  316
+  1 4 3
+  2 5 8
+  7   6
+ number of tried :  317
+  1 4 3
+  2   8
+  7 5 6
+ number of tried :  318
+  1 4 3
+  7 2  
+  8 5 6
+ number of tried :  319
+  1 4 3
+  2   8
+  7 5 6
+ number of tried :  320
+  1 3 6
+  2 5 8
+  7   4
+ number of tried :  321
+  1   5
+  2 4 3
+  7 8 6
+ number of tried :  322
+  1 4 5
+  2   3
+  7 8 6
+ number of tried :  323
+  1 4 5
+  2 3  
+  7 8 6
+ number of tried :  324
+  1 4 5
+  2 3 6
+  7 8  
+ number of tried :  325
+  1 4 5
+  2 3 6
+  7   8
+ number of tried :  326
+  1 5  
+  7 2 3
+  4 8 6
+ number of tried :  327
+  1 5 3
+    7 2
+  4 8 6
+ number of tried :  328
+  1 5 3
+  4 7 2
+    8 6
+ number of tried :  329
+  1 5 3
+  4 7 2
+  8   6
+ number of tried :  330
+  1 5 3
+  4 7 2
+  8 6  
+ number of tried :  331
+  1 5 3
+  4   2
+  8 7 6
+ number of tried :  332
+  1 5 3
+  4 2  
+  8 7 6
+ number of tried :  333
+  1 5 3
+  4 2 6
+  8 7  
+ number of tried :  334
+  1 5 3
+  4 2 6
+  8   7
+ number of tried :  335
+  1 5 3
+  4 2 6
+    8 7
+ number of tried :  336
+  1   3
+  4 5 2
+  8 7 6
+ number of tried :  337
+  1 5 3
+  4   6
+  8 2 7
+ number of tried :  338
+  1 5 3
+    2 6
+  4 8 7
+ number of tried :  339
+  1 5 3
+  2   6
+  4 8 7
+ number of tried :  340
+  1   3
+  2 5 6
+  4 8 7
+ number of tried :  341
+  1 3  
+  4 5 2
+  8 7 6
+ number of tried :  342
+  1 3 2
+  4 5  
+  8 7 6
+ number of tried :  343
+  1 3 2
+  4 5 6
+  8 7  
+ number of tried :  344
+  1 3 2
+  4 5 6
+  8   7
+ number of tried :  345
+  1 3 2
+  4 5 6
+    8 7
+ number of tried :  346
+  1   3
+  4 5 6
+  8 2 7
+ number of tried :  347
+  1 5 3
+  2 6  
+  4 8 7
+ number of tried :  348
+  1 5 3
+  2 6 7
+  4 8  
+ number of tried :  349
+  1 5 3
+  2 8 6
+  4   7
+ number of tried :  350
+  1 5 3
+  2 8 6
+  4 7  
+ number of tried :  351
+  1 3  
+  2 5 6
+  4 8 7
+ number of tried :  352
+  1 3 2
+  4   5
+  8 7 6
+ number of tried :  353
+  1 3 2
+  4   6
+  8 5 7
+ number of tried :  354
+  1 3 2
+    5 6
+  4 8 7
+ number of tried :  355
+  1 5 3
+  2 8  
+  4 7 6
+ number of tried :  356
+  1 3 6
+  2 5  
+  4 8 7
+ number of tried :  357
+  1 3 6
+  2 5 7
+  4 8  
+ number of tried :  358
+  1 3 2
+  4 7 5
+  8   6
+ number of tried :  359
+  1 3 2
+  4 7 5
+  8 6  
+ number of tried :  360
+  1 3 2
+  5   6
+  4 8 7
+ number of tried :  361
+  1 3 2
+  4 7 5
+    8 6
+ number of tried :  362
+  1 5 3
+  7 2 4
+    8 6
+ number of tried :  363
+  1 5 3
+  2 8  
+  7 6 4
+ number of tried :  364
+  1 3 4
+  2   5
+  7 8 6
+ number of tried :  365
+  1 3 4
+  2   6
+  7 5 8
+ number of tried :  366
+  1 5 3
+  7 6  
+  4 2 8
+ number of tried :  367
+  1 5 3
+  7 6 8
+  4 2  
+ number of tried :  368
+  1 3  
+  7 5 6
+  4 2 8
+ number of tried :  369
+  1 3 2
+  7 8 5
+  4   6
+ number of tried :  370
+  1 3 2
+  7 8 5
+  4 6  
+ number of tried :  371
+  1 3 2
+  7 6  
+  4 5 8
+ number of tried :  372
+  1 3 2
+  7 6 8
+  4 5  
+ number of tried :  373
+  1   2
+  5 3 6
+  7 4 8
+ number of tried :  374
+  1 2  
+  5 3 6
+  7 4 8
+ number of tried :  375
+  1 2 6
+  5 3  
+  7 4 8
+ number of tried :  376
+  1 2 6
+  5 3 8
+  7 4  
+ number of tried :  377
+  1 2 6
+  5   3
+  7 4 8
+ number of tried :  378
+  1 2 6
+  5 4 3
+  7   8
+ number of tried :  379
+  1 2 6
+  5 4 3
+  7 8  
+ number of tried :  380
+  1 2 6
+  5 4  
+  7 8 3
+ number of tried :  381
+  1 2  
+  5 4 6
+  7 8 3
+ number of tried :  382
+  1 2 6
+    5 3
+  7 4 8
+ number of tried :  383
+  1 2 6
+  5   4
+  7 8 3
+ number of tried :  384
+  1   2
+  5 4 6
+  7 8 3
+ number of tried :  385
+  1 4 2
+  5   6
+  7 8 3
+ number of tried :  386
+  1 4 2
+    5 6
+  7 8 3
+ number of tried :  387
+  1 2 6
+  7 5 3
+    4 8
+ number of tried :  388
+  1 2 6
+  7 5 3
+  4   8
+ number of tried :  389
+  1 2 6
+  7 5 3
+  4 8  
+ number of tried :  390
+  1 2 6
+  7 5  
+  4 8 3
+ number of tried :  391
+  1 2  
+  7 5 6
+  4 8 3
+ number of tried :  392
+  1 2 6
+    5 4
+  7 8 3
+ number of tried :  393
+  1 4 2
+  5 6  
+  7 8 3
+ number of tried :  394
+  1 4 2
+  5 6 3
+  7 8  
+ number of tried :  395
+  1 4 2
+  5 8 6
+  7   3
+ number of tried :  396
+  1 4 2
+  5 8 6
+  7 3  
+ number of tried :  397
+  1 4 2
+  7 5 6
+    8 3
+ number of tried :  398
+  1 2 6
+  7   3
+  4 5 8
+ number of tried :  399
+  1 2 6
+  7   5
+  4 8 3
+ number of tried :  400
+  1   2
+  7 5 6
+  4 8 3
+ number of tried :  401
+  1 4 2
+  5 6 3
+  7   8
+ number of tried :  402
+  1 4 2
+  7 5 6
+  8   3
+ number of tried :  403
+  1 4 2
+  7 5 6
+  8 3  
+ number of tried :  404
+  1 2 6
+  7 3  
+  4 5 8
+ number of tried :  405
+  1 2 6
+  7 3 8
+  4 5  
+ number of tried :  406
+  1 5 2
+  7   6
+  4 8 3
+ number of tried :  407
+  1 2  
+  7 3 6
+  4 5 8
+ number of tried :  408
+  1 3 2
+  5 4 6
+    7 8
+ number of tried :  409
+  1 4 3
+  5 8  
+  7 6 2
+ number of tried :  410
+  1 4 3
+  7   2
+  8 5 6
+ number of tried :  411
+  1 4 3
+  7 5  
+  8 6 2
+ number of tried :  412
+  1 3 2
+  5 8 4
+  7   6
+ number of tried :  413
+  1 3 2
+  5 8 4
+  7 6  
+ number of tried :  414
+  1 4 3
+    2 6
+  5 7 8
+ number of tried :  415
+  1 4 3
+  2   6
+  5 7 8
+ number of tried :  416
+  1 4 3
+  2 7 6
+  5   8
+ number of tried :  417
+  1 4 3
+  2 7 6
+  5 8  
+ number of tried :  418
+  1 4 3
+  2 7  
+  5 8 6
+ number of tried :  419
+  1 3  
+  5 4 6
+  7 2 8
+ number of tried :  420
+  1 4 3
+  5 6 8
+  7   2
+ number of tried :  421
+  1 4 3
+  7   6
+  2 5 8
+ number of tried :  422
+  1 4 3
+  7   5
+  2 8 6
+ number of tried :  423
+  1 3 2
+  7 5 4
+    8 6
+ number of tried :  424
+  2 1 3
+  7 5 4
+  8   6
+ number of tried :  425
+  2 1 3
+  7 5 4
+  8 6  
+ number of tried :  426
+  1 3 6
+  2   4
+  7 8 5
+ number of tried :  427
+    1 3
+  2 4 6
+  7 8 5
+ number of tried :  428
+  2 1 3
+    4 6
+  7 8 5
+ number of tried :  429
+  2 1 3
+  4   6
+  7 8 5
+ number of tried :  430
+  2 1 3
+  4 6  
+  7 8 5
+ number of tried :  431
+  2 1 3
+  4 6 5
+  7 8  
+ number of tried :  432
+  2 1 3
+  4 8 6
+  7   5
+ number of tried :  433
+  2 1 3
+  4 8 6
+  7 5  
+ number of tried :  434
+  2 1 3
+  4 6 5
+  7   8
+ number of tried :  435
+  2 1 3
+  4 8  
+  7 5 6
+ number of tried :  436
+  2 1 3
+  4   5
+  7 6 8
+ number of tried :  437
+  2 1 3
+  4 5  
+  7 6 8
+ number of tried :  438
+  2 1 3
+  4 5 8
+  7 6  
+ number of tried :  439
+  2 1 3
+  4 5 8
+  7   6
+ number of tried :  440
+  2 1 3
+  4   8
+  7 5 6
+ number of tried :  441
+  2 1 3
+  4   8
+  7 5 6
+ number of tried :  442
+  2 1 3
+  7 4 6
+    8 5
+ number of tried :  443
+  2 1  
+  4 6 3
+  7 8 5
+ number of tried :  444
+  2 1 3
+  4 8 6
+    7 5
+ number of tried :  445
+  2 1  
+  4 5 3
+  7 6 8
+ number of tried :  446
+  2 1 3
+  4 5 8
+    7 6
+ number of tried :  447
+  2 1 3
+  7 4 6
+  8   5
+ number of tried :  448
+  2 1 3
+  7 4 6
+  8 5  
+ number of tried :  449
+  2   3
+  4 1 6
+  7 8 5
+ number of tried :  450
+    2 3
+  4 1 6
+  7 8 5
+ number of tried :  451
+  4 2 3
+    1 6
+  7 8 5
+ number of tried :  452
+  4 2 3
+  1   6
+  7 8 5
+ number of tried :  453
+  4 2 3
+  1 6  
+  7 8 5
+ number of tried :  454
+  4 2 3
+  1 6 5
+  7 8  
+ number of tried :  455
+  4 2 3
+  1 8 6
+  7   5
+ number of tried :  456
+  4 2 3
+  1 8 6
+  7 5  
+ number of tried :  457
+  4 2 3
+  1 6 5
+  7   8
+ number of tried :  458
+  4 2 3
+  1 8  
+  7 5 6
+ number of tried :  459
+  1 4  
+  2 6 3
+  7 8 5
+ number of tried :  460
+  1 4 3
+  2 8 6
+    7 5
+ number of tried :  461
+  1 4 3
+  7   6
+  8 2 5
+ number of tried :  462
+  1   3
+  2 4 5
+  7 6 8
+ number of tried :  463
+  1 4 3
+    2 5
+  7 6 8
+ number of tried :  464
+  1 4  
+  2 5 3
+  7 6 8
+ number of tried :  465
+  1 4 3
+  2 5 8
+    7 6
+ number of tried :  466
+  1   3
+  2 4 8
+  7 5 6
+ number of tried :  467
+  1 4 3
+    2 8
+  7 5 6
+ number of tried :  468
+  1 4 3
+  7   2
+  8 5 6
+ number of tried :  469
+  1   3
+  2 4 8
+  7 5 6
+ number of tried :  470
+  1 4 3
+    2 8
+  7 5 6
+ number of tried :  471
+  1 4 5
+    2 3
+  7 8 6
+ number of tried :  472
+  1 4 5
+  2 8 3
+  7   6
+ number of tried :  473
+  1 4 5
+  2 8 3
+  7 6  
+ number of tried :  474
+  1 4  
+  2 3 5
+  7 8 6
+ number of tried :  475
+  1 5 3
+  4 7  
+  8 6 2
+ number of tried :  476
+  1 5  
+  4 2 3
+  8 7 6
+ number of tried :  477
+  1 5 3
+  4 6  
+  8 2 7
+ number of tried :  478
+  1 5 3
+  4 6 7
+  8 2  
+ number of tried :  479
+  1 3  
+  4 5 6
+  8 2 7
+ number of tried :  480
+  1 3 2
+  4 6  
+  8 5 7
+ number of tried :  481
+  1 3 2
+  4 6 7
+  8 5  
+ number of tried :  482
+  1 5 3
+  2   8
+  4 7 6
+ number of tried :  483
+  1 3 2
+  4 7  
+  8 6 5
+ number of tried :  484
+  1 3 2
+  5 6  
+  4 8 7
+ number of tried :  485
+  1 3 2
+  5 6 7
+  4 8  
+ number of tried :  486
+  1 3 2
+  5 8 6
+  4   7
+ number of tried :  487
+  1 3 2
+  5 8 6
+  4 7  
+ number of tried :  488
+  1 5 3
+  7 2 4
+  8   6
+ number of tried :  489
+  1 5 3
+  7 2 4
+  8 6  
+ number of tried :  490
+  1 3 6
+  7 5  
+  4 2 8
+ number of tried :  491
+  1 3 6
+  7 5 8
+  4 2  
+ number of tried :  492
+  1 2 6
+  5 3 8
+  7   4
+ number of tried :  493
+  1 2 6
+  5 4 3
+    7 8
+ number of tried :  494
+  1 2 6
+  5 8 4
+  7   3
+ number of tried :  495
+  1 2 6
+  5 8 4
+  7 3  
+ number of tried :  496
+  1 2 6
+  7 5 4
+    8 3
+ number of tried :  497
+  1 2 6
+  7 8 5
+  4   3
+ number of tried :  498
+  1 2 6
+  7 8 5
+  4 3  
+ number of tried :  499
+  1 4 2
+  5   3
+  7 6 8
+ number of tried :  500
+  1 2 6
+  7 3 8
+  4   5
+ number of tried :  501
+  1 5 2
+  7 6  
+  4 8 3
+ number of tried :  502
+  1 5 2
+  7 6 3
+  4 8  
+ number of tried :  503
+  1 5 2
+  7 8 6
+  4   3
+ number of tried :  504
+  1 5 2
+  7 8 6
+  4 3  
+ number of tried :  505
+  1   3
+  2 4 6
+  5 7 8
+ number of tried :  506
+  1 4 3
+  2 6  
+  5 7 8
+ number of tried :  507
+  1 4 3
+  2 6 8
+  5 7  
+ number of tried :  508
+  1 4 3
+  2 7 6
+    5 8
+ number of tried :  509
+  1 3 6
+  5 4  
+  7 2 8
+ number of tried :  510
+  1 3 6
+  5 4 8
+  7 2  
+ number of tried :  511
+  1 3 2
+  7 5 4
+  8   6
+ number of tried :  512
+  1 3 2
+  7 5 4
+  8 6  
+ number of tried :  513
+  2 1 3
+  4 6 5
+    7 8
+ number of tried :  514
+  2 1  
+  4 8 3
+  7 5 6
+ number of tried :  515
+  2 1 3
+  7   6
+  8 4 5
+ number of tried :  516
+  2 1 3
+  7 4  
+  8 5 6
+ number of tried :  517
+  1 3 6
+  4 5  
+  8 2 7
+ number of tried :  518
+  1 3 6
+  4 5 7
+  8 2  
+ number of tried :  519
+  1   3
+  2 5 8
+  4 7 6
+ number of tried :  520
+  1 5 3
+  2 7 8
+  4   6
+ number of tried :  521
+  1 5 3
+  2 7 8
+  4 6  
+ number of tried :  522
+  1 3 2
+  5 8  
+  4 7 6
+ number of tried :  523
+  1 2 6
+  7 5 4
+  8   3
+ number of tried :  524
+  1 2 6
+  7 5 4
+  8 3  
+ number of tried :  525
+  1 4 2
+    5 3
+  7 6 8
+ number of tried :  526
+  1 4 2
+  5 3  
+  7 6 8
+ number of tried :  527
+  1 4 2
+  5 3 8
+  7 6  
+ number of tried :  528
+  1 5 2
+  7 6 3
+  4   8
+ number of tried :  529
+  1 5 3
+  2 7  
+  4 6 8
+ number of tried :  530
+  1 4 2
+  5 3 8
+  7   6
+ number of tried :  531
+  2 3  
+  4 1 6
+  7 8 5
+ number of tried :  532
+  4 2 3
+  7 1 6
+    8 5
+ number of tried :  533
+  4   3
+  1 2 6
+  7 8 5
+ number of tried :  534
+  4 2 3
+  1   5
+  7 6 8
+ number of tried :  535
+  4 2 3
+  1 5  
+  7 6 8
+ number of tried :  536
+  4 2 3
+  1 5 8
+  7 6  
+ number of tried :  537
+  4 2 3
+  1 5 8
+  7   6
+ number of tried :  538
+  4 2 3
+  1   8
+  7 5 6
+ number of tried :  539
+  2 3 6
+  4 1  
+  7 8 5
+ number of tried :  540
+  2 3 6
+  4 1 5
+  7 8  
+ number of tried :  541
+  4 2 3
+  7 1 6
+  8   5
+ number of tried :  542
+  4 2 3
+  7 1 6
+  8 5  
+ number of tried :  543
+  4 2 3
+  1   8
+  7 5 6
+ number of tried :  544
+  2 1 3
+    7 5
+  4 8 6
+ number of tried :  545
+  2 1 3
+  4 7 5
+    8 6
+ number of tried :  546
+  2 1 3
+  4 7 5
+  8   6
+ number of tried :  547
+  2 1 3
+  4 7 5
+  8 6  
+ number of tried :  548
+  2 1 3
+  4   5
+  8 7 6
+ number of tried :  549
+  2 1 3
+  4 5  
+  8 7 6
+ number of tried :  550
+  2 1 3
+  4 5 6
+  8 7  
+ number of tried :  551
+  2 1 3
+  4 5 6
+  8   7
+ number of tried :  552
+  2 1 3
+  4 5 6
+    8 7
+ number of tried :  553
+  2 1 3
+  4   6
+  8 5 7
+ number of tried :  554
+  2 1 3
+    5 6
+  4 8 7
+ number of tried :  555
+  2 1 3
+  5   6
+  4 8 7
+ number of tried :  556
+  2 1 3
+  4 7  
+  8 6 5
+ number of tried :  557
+  2 1  
+  4 5 3
+  8 7 6
+ number of tried :  558
+  2 1 3
+  4 6  
+  8 5 7
+ number of tried :  559
+  2 1 3
+  4 6 7
+  8 5  
+ number of tried :  560
+  2 1 3
+  5 6  
+  4 8 7
+ number of tried :  561
+  2 1 3
+  5 6 7
+  4 8  
+ number of tried :  562
+  2 1 3
+  5 8 6
+  4   7
+ number of tried :  563
+  2 1 3
+  5 8 6
+  4 7  
+ number of tried :  564
+  2 1 3
+  5 8  
+  4 7 6
+ number of tried :  565
+  2 1 3
+    7 6
+  4 5 8
+ number of tried :  566
+  2 1 3
+  4 7 6
+    5 8
+ number of tried :  567
+  2 1 3
+  4 7 6
+  5   8
+ number of tried :  568
+  2 1 3
+  4 7 6
+  5 8  
+ number of tried :  569
+  2 1 3
+  4   6
+  5 7 8
+ number of tried :  570
+  2 1 3
+  4 7  
+  5 8 6
+ number of tried :  571
+  2 1 3
+  4 6  
+  5 7 8
+ number of tried :  572
+  2 1 3
+  4 6 8
+  5 7  
+ number of tried :  573
+  2 1 3
+  4   7
+  5 8 6
+ number of tried :  574
+  2 1 3
+  5 6 8
+  7   4
+ number of tried :  575
+    1 3
+  2 5 4
+  7 8 6
+ number of tried :  576
+  2 1 3
+  7 8  
+  4 6 5
+ number of tried :  577
+  2 1 3
+  7 6 8
+  4   5
+ number of tried :  578
+  1 5  
+  2 6 3
+  7 4 8
+ number of tried :  579
+    1 3
+  2 5 4
+  7 8 6
+ number of tried :  580
+  1 5 3
+    4 6
+  2 7 8
+ number of tried :  581
+  1 5 3
+  4   6
+  2 7 8
+ number of tried :  582
+  1   3
+  4 5 6
+  2 7 8
+ number of tried :  583
+  1 5 3
+  4 7 6
+  2   8
+ number of tried :  584
+  1 5 3
+  4 7 6
+  2 8  
+ number of tried :  585
+  1 5 3
+  4 7  
+  2 8 6
+ number of tried :  586
+  1 5 3
+  4 6  
+  2 7 8
+ number of tried :  587
+  1 5 3
+  4 6 8
+  2 7  
+ number of tried :  588
+  1 3  
+  4 5 6
+  2 7 8
+ number of tried :  589
+  1 5 3
+  4 7 6
+    2 8
+ number of tried :  590
+  1 3 6
+  4 5  
+  2 7 8
+ number of tried :  591
+  1 3 6
+  4 5 8
+  2 7  
+ number of tried :  592
+  1 5 3
+  4   7
+  2 8 6
+ number of tried :  593
+  1   3
+  4 5 7
+  2 8 6
+ number of tried :  594
+    1 3
+  7 5 2
+  4 8 6
+ number of tried :  595
+  1 3 4
+  2 5 6
+    7 8
+ number of tried :  596
+  1 5 3
+    7 6
+  4 2 8
+ number of tried :  597
+  1 5 3
+  7 8 2
+    4 6
+ number of tried :  598
+  1 5 3
+    8 2
+  7 4 6
+ number of tried :  599
+  1 5 3
+  8   2
+  7 4 6
+ number of tried :  600
+  1 5 3
+  8 2  
+  7 4 6
+ number of tried :  601
+  1 5 3
+  8 2 6
+  7 4  
+ number of tried :  602
+  1 5 3
+  8 4 2
+  7   6
+ number of tried :  603
+  1 5 3
+  8 4 2
+  7 6  
+ number of tried :  604
+  1 5 3
+  8 2 6
+  7   4
+ number of tried :  605
+  1   3
+  8 5 2
+  7 4 6
+ number of tried :  606
+  1 5 3
+  8 4  
+  7 6 2
+ number of tried :  607
+  1 5 3
+  8   6
+  7 2 4
+ number of tried :  608
+  1 3  
+  8 5 2
+  7 4 6
+ number of tried :  609
+  1 3 2
+  8 5  
+  7 4 6
+ number of tried :  610
+  1 3 2
+  8 5 6
+  7 4  
+ number of tried :  611
+  1 3 2
+  8 5 6
+  7   4
+ number of tried :  612
+  1   3
+  8 5 6
+  7 2 4
+ number of tried :  613
+  1 3 2
+  8   5
+  7 4 6
+ number of tried :  614
+  1 3 2
+  8 4 5
+  7   6
+ number of tried :  615
+  1 3 2
+  8 4 5
+  7 6  
+ number of tried :  616
+  1 3 2
+  8   6
+  7 5 4
+ number of tried :  617
+  1 3 2
+  8 4  
+  7 6 5
+ number of tried :  618
+  1 5 3
+  7 8  
+  4 6 2
+ number of tried :  619
+  1   2
+  7 3 5
+  4 8 6
+ number of tried :  620
+  1 2  
+  7 3 5
+  4 8 6
+ number of tried :  621
+  1 2 5
+  7 3  
+  4 8 6
+ number of tried :  622
+  1 2 5
+  7 3 6
+  4 8  
+ number of tried :  623
+  1 2 5
+  7   3
+  4 8 6
+ number of tried :  624
+  1 2 5
+  7 3 6
+  4   8
+ number of tried :  625
+  1 2 5
+  7 8 3
+  4   6
+ number of tried :  626
+  1 2 5
+  7 8 3
+  4 6  
+ number of tried :  627
+  1 2 5
+    7 3
+  4 8 6
+ number of tried :  628
+  1 2 5
+  4 7 3
+    8 6
+ number of tried :  629
+  1 2 5
+  4 7 3
+  8   6
+ number of tried :  630
+  1 2 5
+  4 7 3
+  8 6  
+ number of tried :  631
+  1 2 5
+  4   3
+  8 7 6
+ number of tried :  632
+  1 2 5
+  4 3  
+  8 7 6
+ number of tried :  633
+  1 2 5
+  4 3 6
+  8 7  
+ number of tried :  634
+  1 2 5
+  4 3 6
+  8   7
+ number of tried :  635
+  1 2 5
+  4 3 6
+    8 7
+ number of tried :  636
+  1 2  
+  4 3 5
+  8 7 6
+ number of tried :  637
+  1 2 5
+  7   6
+  4 3 8
+ number of tried :  638
+  1 2 5
+  7 3 6
+    4 8
+ number of tried :  639
+  1 2 5
+    3 6
+  7 4 8
+ number of tried :  640
+  1 2 5
+  3   6
+  7 4 8
+ number of tried :  641
+  1 2 5
+  3 4 6
+  7   8
+ number of tried :  642
+  1 2 5
+  3 4 6
+  7 8  
+ number of tried :  643
+  1 2 5
+  3 4  
+  7 8 6
+ number of tried :  644
+  1 2  
+  3 4 5
+  7 8 6
+ number of tried :  645
+  1 2 5
+  4 7  
+  8 6 3
+ number of tried :  646
+  1 2 5
+  4   6
+  8 3 7
+ number of tried :  647
+  1 2 5
+    3 6
+  4 8 7
+ number of tried :  648
+  1 2 5
+  3 6  
+  7 4 8
+ number of tried :  649
+  1 2 5
+  3 6 8
+  7 4  
+ number of tried :  650
+  1 2 5
+  3   4
+  7 8 6
+ number of tried :  651
+  1 2 5
+  3   6
+  4 8 7
+ number of tried :  652
+  1 2 5
+    3 4
+  7 8 6
+ number of tried :  653
+  1 3 2
+    7 5
+  4 8 6
+ number of tried :  654
+  1   2
+  7 3 6
+  4 5 8
+ number of tried :  655
+  1 3 2
+    7 6
+  4 5 8
+ number of tried :  656
+  1 3 2
+  4 7 6
+    5 8
+ number of tried :  657
+  1 3 2
+  4 7 6
+  5   8
+ number of tried :  658
+  1 3 2
+  4 7 6
+  5 8  
+ number of tried :  659
+  1 3 2
+  4   6
+  5 7 8
+ number of tried :  660
+  1 3 2
+  4 7  
+  5 8 6
+ number of tried :  661
+  1 3 2
+  4 6  
+  5 7 8
+ number of tried :  662
+  1 3 2
+  4 6 8
+  5 7  
+ number of tried :  663
+  1   2
+  4 3 6
+  5 7 8
+ number of tried :  664
+  1 2  
+  4 3 6
+  5 7 8
+ number of tried :  665
+  1 2 6
+  4 3  
+  5 7 8
+ number of tried :  666
+  1 2 6
+  4 3 8
+  5 7  
+ number of tried :  667
+  1 2 6
+  4   3
+  5 7 8
+ number of tried :  668
+  1 2 6
+  4 7 3
+  5   8
+ number of tried :  669
+  1 2 6
+  4 7 3
+  5 8  
+ number of tried :  670
+  1 2 6
+  4 7  
+  5 8 3
+ number of tried :  671
+  1 2  
+  4 7 6
+  5 8 3
+ number of tried :  672
+  1 2 6
+  4 7 3
+    5 8
+ number of tried :  673
+  1 3  
+  4 7 2
+  5 8 6
+ number of tried :  674
+  1   3
+  4 7 2
+  5 8 6
+ number of tried :  675
+  1 7 3
+  4   2
+  5 8 6
+ number of tried :  676
+  1 7 3
+  4 2  
+  5 8 6
+ number of tried :  677
+  1 7 3
+  4 2 6
+  5 8  
+ number of tried :  678
+  1 7 3
+  4 2 6
+  5   8
+ number of tried :  679
+  1 7 3
+  4 2 6
+    5 8
+ number of tried :  680
+  1 3 2
+  4   7
+  5 8 6
+ number of tried :  681
+  1 2 6
+  4 3 8
+  5   7
+ number of tried :  682
+  1 2 6
+  4   7
+  5 8 3
+ number of tried :  683
+  1   2
+  4 7 6
+  5 8 3
+ number of tried :  684
+  1 7 3
+  4 8 2
+  5   6
+ number of tried :  685
+  1 7 3
+  4 8 2
+  5 6  
+ number of tried :  686
+  1 7 3
+  4   6
+  5 2 8
+ number of tried :  687
+  1 7 2
+  4   6
+  5 8 3
+ number of tried :  688
+  1   3
+  4 7 6
+  5 2 8
+ number of tried :  689
+  1 3  
+  5 6 2
+  7 4 8
+ number of tried :  690
+  1   3
+  5 6 2
+  7 4 8
+ number of tried :  691
+  1 6 3
+  5   2
+  7 4 8
+ number of tried :  692
+  1 6 3
+  5 2  
+  7 4 8
+ number of tried :  693
+  1 6 3
+  5 2 8
+  7 4  
+ number of tried :  694
+  1 6 3
+  5 4 2
+  7   8
+ number of tried :  695
+  1 6 3
+  5 4 2
+  7 8  
+ number of tried :  696
+  1 6 3
+  5 4  
+  7 8 2
+ number of tried :  697
+  1 6 3
+    5 2
+  7 4 8
+ number of tried :  698
+  1 6 3
+  5 2 8
+  7   4
+ number of tried :  699
+  1 6 3
+  5   4
+  7 8 2
+ number of tried :  700
+  1 6 3
+  7 5 2
+    4 8
+ number of tried :  701
+  1 6 3
+  7 5 2
+  4   8
+ number of tried :  702
+  1 6 3
+  7 5 2
+  4 8  
+ number of tried :  703
+  1 6 3
+  7 5  
+  4 8 2
+ number of tried :  704
+  1 6 3
+    5 4
+  7 8 2
+ number of tried :  705
+  1 6 3
+  7   2
+  4 5 8
+ number of tried :  706
+  1 6 3
+  7 2  
+  4 5 8
+ number of tried :  707
+  1 6 3
+  7 2 8
+  4 5  
+ number of tried :  708
+  1 6 3
+  7   5
+  4 8 2
+ number of tried :  709
+  1 6 3
+  7 2 8
+  4   5
+ number of tried :  710
+  1 3 2
+  5 6 8
+  7   4
+ number of tried :  711
+    1 3
+  5 4 2
+  7 8 6
+ number of tried :  712
+  5 1 3
+    4 2
+  7 8 6
+ number of tried :  713
+  5 1 3
+  4   2
+  7 8 6
+ number of tried :  714
+  5 1 3
+  4 2  
+  7 8 6
+ number of tried :  715
+  5 1 3
+  4 2 6
+  7 8  
+ number of tried :  716
+  5 1 3
+  4 2 6
+  7   8
+ number of tried :  717
+  5 1 3
+  4 8 2
+  7   6
+ number of tried :  718
+  5 1 3
+  4 8 2
+  7 6  
+ number of tried :  719
+  5 1 3
+  4   6
+  7 2 8
+ number of tried :  720
+  5 1  
+  4 2 3
+  7 8 6
+ number of tried :  721
+  5 1 3
+  4 2 6
+    7 8
+ number of tried :  722
+  5 1 3
+  4 6  
+  7 2 8
+ number of tried :  723
+  5 1 3
+  4 6 8
+  7 2  
+ number of tried :  724
+  5 1 3
+  4 8  
+  7 6 2
+ number of tried :  725
+  5 1 3
+  4 6 8
+  7   2
+ number of tried :  726
+  1 4 3
+  5 8 2
+    7 6
+ number of tried :  727
+  1   2
+  5 3 4
+  7 8 6
+ number of tried :  728
+  1 2  
+  5 3 4
+  7 8 6
+ number of tried :  729
+  1 2 4
+  5 3  
+  7 8 6
+ number of tried :  730
+  1 2 4
+  5 3 6
+  7 8  
+ number of tried :  731
+  1 2 4
+  5   3
+  7 8 6
+ number of tried :  732
+  1 2 4
+  5 3 6
+  7   8
+ number of tried :  733
+  1 2 4
+    5 3
+  7 8 6
+ number of tried :  734
+  1 2 4
+  5 8 3
+  7   6
+ number of tried :  735
+  1 2 4
+  5 8 3
+  7 6  
+ number of tried :  736
+  1 2 4
+  7 5 3
+    8 6
+ number of tried :  737
+  1 2 4
+  7 5 3
+  8   6
+ number of tried :  738
+  1 2 4
+  7 5 3
+  8 6  
+ number of tried :  739
+  1 2 4
+  5   6
+  7 3 8
+ number of tried :  740
+  1 2 4
+    5 6
+  7 3 8
+ number of tried :  741
+  1   4
+  5 2 3
+  7 8 6
+ number of tried :  742
+  1 4  
+  7 5 3
+  2 8 6
+ number of tried :  743
+  2 1 3
+    4 6
+  5 7 8
+ number of tried :  744
+  2 1 3
+  5 8  
+  7 6 4
+ number of tried :  745
+  1 5 3
+  2   8
+  7 6 4
+ number of tried :  746
+  1 3 6
+    2 5
+  7 4 8
+ number of tried :  747
+  1 4 3
+  2 6 5
+    7 8
+ number of tried :  748
+  1 4  
+  2 8 3
+  7 5 6
+ number of tried :  749
+  1 4 5
+  2   6
+  7 3 8
+ number of tried :  750
+  1   5
+  7 2 3
+  4 8 6
+ number of tried :  751
+  1 5 3
+    4 2
+  8 7 6
+ number of tried :  752
+    1 3
+  4 5 2
+  8 7 6
+ number of tried :  753
+    1 3
+  2 5 6
+  4 8 7
+ number of tried :  754
+  1 5 3
+  2 6 7
+  4   8
+ number of tried :  755
+  1 5 3
+  2 8 6
+    4 7
+ number of tried :  756
+  1   2
+  4 3 5
+  8 7 6
+ number of tried :  757
+  1   2
+  4 3 6
+  8 5 7
+ number of tried :  758
+  1 2  
+  4 3 6
+  8 5 7
+ number of tried :  759
+  1 2 6
+  4 3  
+  8 5 7
+ number of tried :  760
+  1 2 6
+  4 3 7
+  8 5  
+ number of tried :  761
+  1 2 6
+  4   3
+  8 5 7
+ number of tried :  762
+  1 2 6
+  4 5 3
+  8   7
+ number of tried :  763
+  1 2 6
+  4 5 3
+  8 7  
+ number of tried :  764
+  1 2 6
+  4 5 3
+    8 7
+ number of tried :  765
+  1 2 6
+  4 5  
+  8 7 3
+ number of tried :  766
+  1 2  
+  4 5 6
+  8 7 3
+ number of tried :  767
+  1 2 6
+    5 3
+  4 8 7
+ number of tried :  768
+  1 2 6
+  4   5
+  8 7 3
+ number of tried :  769
+  1   2
+  4 5 6
+  8 7 3
+ number of tried :  770
+  1 2 6
+  5   3
+  4 8 7
+ number of tried :  771
+  1 2 6
+  4 7 5
+  8   3
+ number of tried :  772
+  1 2 6
+  4 7 5
+  8 3  
+ number of tried :  773
+  1 5 2
+  4   6
+  8 7 3
+ number of tried :  774
+  1 2 6
+  5 3  
+  4 8 7
+ number of tried :  775
+  1 2 6
+  5 3 7
+  4 8  
+ number of tried :  776
+  1 2 6
+  4 7 5
+    8 3
+ number of tried :  777
+  1 5 2
+  4 7 6
+  8   3
+ number of tried :  778
+  1 5 2
+  4 7 6
+  8 3  
+ number of tried :  779
+  1 2  
+  5 3 6
+  4 8 7
+ number of tried :  780
+  1 5 2
+  4 7 6
+    8 3
+ number of tried :  781
+  1 2 6
+  4 3 7
+  8   5
+ number of tried :  782
+  1 2 6
+  5 8 3
+  4   7
+ number of tried :  783
+  1 2 6
+  5 8 3
+  4 7  
+ number of tried :  784
+  1 2 6
+  4 7  
+  8 3 5
+ number of tried :  785
+  1 5 2
+  4 6  
+  8 7 3
+ number of tried :  786
+  1 5 2
+  4 6 3
+  8 7  
+ number of tried :  787
+  1 2 6
+  4 3 7
+    8 5
+ number of tried :  788
+  1 2 6
+  5 8  
+  4 7 3
+ number of tried :  789
+  1 2  
+  4 7 6
+  8 3 5
+ number of tried :  790
+  1 5 2
+  4 6 3
+  8   7
+ number of tried :  791
+  1 2  
+  5 8 6
+  4 7 3
+ number of tried :  792
+  1 5 2
+  4 6 3
+    8 7
+ number of tried :  793
+  1 3 6
+  2   5
+  4 8 7
+ number of tried :  794
+  1 3 6
+  2 5 7
+  4   8
+ number of tried :  795
+  1   2
+  5 3 6
+  4 8 7
+ number of tried :  796
+  1 3 2
+    7 5
+  4 8 6
+ number of tried :  797
+  1 5 3
+  2   8
+  7 6 4
+ number of tried :  798
+  1 3 4
+    2 5
+  7 8 6
+ number of tried :  799
+  1 3 4
+  2 8 5
+  7   6
+ number of tried :  800
+  1 3 4
+  2 8 5
+  7 6  
+ number of tried :  801
+  1 3 4
+    2 6
+  7 5 8
+ number of tried :  802
+  1 3 4
+  2 6  
+  7 5 8
+ number of tried :  803
+  1 3 4
+  2 6 8
+  7 5  
+ number of tried :  804
+  1 5 3
+  7 6 8
+  4   2
+ number of tried :  805
+  1 3 2
+  7 8  
+  4 6 5
+ number of tried :  806
+  1 3 2
+  7 6 8
+  4   5
+ number of tried :  807
+  1   6
+  5 2 3
+  7 4 8
+ number of tried :  808
+  1 4  
+  5 6 2
+  7 8 3
+ number of tried :  809
+  1 4 2
+  5 8  
+  7 3 6
+ number of tried :  810
+  1 2 6
+    7 3
+  4 5 8
+ number of tried :  811
+  1 2 6
+    7 5
+  4 8 3
+ number of tried :  812
+  1 4 2
+  7   6
+  8 5 3
+ number of tried :  813
+  1 4 2
+  7 5  
+  8 3 6
+ number of tried :  814
+  1 5 2
+    7 6
+  4 8 3
+ number of tried :  815
+  1   2
+  7 3 6
+  4 5 8
+ number of tried :  816
+  1 3 2
+    4 6
+  5 7 8
+ number of tried :  817
+  1 4 3
+  5   8
+  7 6 2
+ number of tried :  818
+  1   3
+  7 4 2
+  8 5 6
+ number of tried :  819
+  1 3 2
+  5 8  
+  7 6 4
+ number of tried :  820
+  1 4 3
+  2   7
+  5 8 6
+ number of tried :  821
+  1 4 3
+  5   8
+  7 6 2
+ number of tried :  822
+  1   3
+  7 4 6
+  2 5 8
+ number of tried :  823
+  1 4 3
+  7 6  
+  2 5 8
+ number of tried :  824
+  1 4 3
+  7 6 8
+  2 5  
+ number of tried :  825
+  1   3
+  7 4 5
+  2 8 6
+ number of tried :  826
+  1 4 3
+  7 8 5
+  2   6
+ number of tried :  827
+  1 4 3
+  7 8 5
+  2 6  
+ number of tried :  828
+  2 1 3
+  7 5  
+  8 6 4
+ number of tried :  829
+  1 3 6
+    2 4
+  7 8 5
+ number of tried :  830
+  1 3 6
+  2 8 4
+  7   5
+ number of tried :  831
+  1 3 6
+  2 8 4
+  7 5  
+ number of tried :  832
+  2 1 3
+    4 5
+  7 6 8
+ number of tried :  833
+  2 1 3
+    4 8
+  7 5 6
+ number of tried :  834
+  2 1 3
+    4 8
+  7 5 6
+ number of tried :  835
+  2   1
+  4 6 3
+  7 8 5
+ number of tried :  836
+  2 6 1
+  4   3
+  7 8 5
+ number of tried :  837
+  2 6 1
+  4 3  
+  7 8 5
+ number of tried :  838
+  2 6 1
+  4 3 5
+  7 8  
+ number of tried :  839
+  2 1 3
+    8 6
+  4 7 5
+ number of tried :  840
+  2 1 3
+  8   6
+  4 7 5
+ number of tried :  841
+  2 1 3
+  8 7 6
+  4   5
+ number of tried :  842
+  2 1 3
+  8 7 6
+  4 5  
+ number of tried :  843
+  2   1
+  4 5 3
+  7 6 8
+ number of tried :  844
+  2 1 3
+    5 8
+  4 7 6
+ number of tried :  845
+  1   3
+  7 4 6
+  8 2 5
+ number of tried :  846
+  1 4 3
+  7 6  
+  8 2 5
+ number of tried :  847
+  1 4 3
+  7 6 5
+  8 2  
+ number of tried :  848
+  1 3  
+  2 4 5
+  7 6 8
+ number of tried :  849
+  1 3 5
+  2 4  
+  7 6 8
+ number of tried :  850
+  1 3 5
+  2 4 8
+  7 6  
+ number of tried :  851
+  1 3 5
+  2 4 8
+  7   6
+ number of tried :  852
+  1 4 3
+  7 2 5
+    6 8
+ number of tried :  853
+  1 3  
+  2 4 8
+  7 5 6
+ number of tried :  854
+  1 4 3
+  7 2 8
+    5 6
+ number of tried :  855
+  1 4 3
+  7 2 8
+  5   6
+ number of tried :  856
+  1 4 3
+  7 2 8
+  5 6  
+ number of tried :  857
+  1 4 3
+  7 2  
+  5 6 8
+ number of tried :  858
+  1   3
+  7 4 2
+  8 5 6
+ number of tried :  859
+  1 3  
+  2 4 8
+  7 5 6
+ number of tried :  860
+  1 4 3
+  7 2 8
+    5 6
+ number of tried :  861
+  1 4 5
+  7 2 3
+    8 6
+ number of tried :  862
+  1   5
+  4 2 3
+  8 7 6
+ number of tried :  863
+  1 5 3
+  4 6 7
+  8   2
+ number of tried :  864
+  1 3 2
+  4 6 7
+  8   5
+ number of tried :  865
+  1 5 3
+    2 8
+  4 7 6
+ number of tried :  866
+  1 5 3
+  4 2 8
+    7 6
+ number of tried :  867
+  1 5 3
+  4 2 8
+  7   6
+ number of tried :  868
+  1 5 3
+  4 2 8
+  7 6  
+ number of tried :  869
+  1 5 3
+  4 2  
+  7 6 8
+ number of tried :  870
+  1 5 3
+  4   2
+  7 6 8
+ number of tried :  871
+  1 5 3
+  4 6 2
+  7   8
+ number of tried :  872
+  1 5 3
+  4 6 2
+  7 8  
+ number of tried :  873
+  1 5 3
+  4 6  
+  7 8 2
+ number of tried :  874
+  1 5 3
+  4   6
+  7 8 2
+ number of tried :  875
+  1   3
+  4 5 6
+  7 8 2
+ number of tried :  876
+  1 5 3
+  4 8 6
+  7   2
+ number of tried :  877
+  1 5 3
+  4 8 6
+  7 2  
+ number of tried :  878
+  1 3  
+  4 5 6
+  7 8 2
+ number of tried :  879
+  1 3 6
+  4 5  
+  7 8 2
+ number of tried :  880
+  1 3 6
+  4 5 2
+  7 8  
+ number of tried :  881
+  1 3 6
+  4 5 2
+  7   8
+ number of tried :  882
+  1   3
+  4 5 2
+  7 6 8
+ number of tried :  883
+  1 5 3
+  4 8  
+  7 2 6
+ number of tried :  884
+  1 5 3
+  4   8
+  7 2 6
+ number of tried :  885
+  1 5 3
+    4 6
+  7 8 2
+ number of tried :  886
+    1 3
+  4 5 6
+  7 8 2
+ number of tried :  887
+  1 3 6
+  4   5
+  7 8 2
+ number of tried :  888
+  1 3 6
+  4   2
+  7 5 8
+ number of tried :  889
+  1 3 6
+  4 2  
+  7 5 8
+ number of tried :  890
+  1 3 6
+  4 2 8
+  7 5  
+ number of tried :  891
+  1 3  
+  4 2 6
+  7 5 8
+ number of tried :  892
+  1   3
+  4 2 6
+  7 5 8
+ number of tried :  893
+  1 2 3
+  4   6
+  7 5 8
+ find goalState
+  1 2 3
+  4 5 6
+  7   8
+
+Process finished with exit code 0
+

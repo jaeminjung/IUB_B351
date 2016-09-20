@@ -1,0 +1,16 @@
+speed of uninformed and informed search methods
+
+the speed of performance is not really different, however
+the probability of reaching to goal for informed-search is way higher than uniformed search
+so that informed-search reached to goal-state
+
+there are too much of domain for 8-puzzle about 180000. 
+
+wiith uninformed search, it exceed the limit of 5000 times, however, with same initial state,
+informed search found in less than 900 times
+initial state was = [[8,7,6],[5,4,3],[3,2," "]]
+and the goal state was = [[1,2,3],[4,5,6],[7," ",8]]
+
+the maximum difficulty of problems was to come out the idea of well heuristics method.
+Since there so much of possible states, what heuristics method that I made doesn't feel like
+working well to solving 8-puzzle. So I just gave big points for matching first rows. 
