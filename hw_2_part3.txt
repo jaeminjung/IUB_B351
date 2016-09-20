@@ -5,12 +5,25 @@ the probability of reaching to goal for informed-search is way higher than unifo
 so that informed-search reached to goal-state
 
 there are too much of domain for 8-puzzle about 180000. 
+So, basically i programmed like
+	first we got initial state as argument, and check it, if it is goal or not
+and then, we put visited array.
+next, we generate all possible states that we can move next, and append them to frontier array.
+when append to frontier, we check these possible states are in visited array or not.
+if it is in visited, we do not put it into frontier.
+and we pop a element in frontier and check it, if it is goal or not.
+and generate all possible states that we can move to next
+.... and so on, until find the goal state
 
-wiith uninformed search, it exceed the limit of 5000 times, however, with same initial state,
-informed search found in less than 900 times
+
 initial state was = [[8,7,6],[5,4,3],[3,2," "]]
 and the goal state was = [[1,2,3],[4,5,6],[7," ",8]]
+wiith uninformed search, it exceed the limit of 5000 times, however, with same initial state,
+informed search found in less than 900 times
+
 
 the maximum difficulty of problems was to come out the idea of well heuristics method.
 Since there so much of possible states, what heuristics method that I made doesn't feel like
-working well to solving 8-puzzle. So I just gave big points for matching first rows. 
+working well to solving 8-puzzle. 
+So I just gave big points if all first row matched with goal state.
+also, I calculated number of tiles that different with goal state.
